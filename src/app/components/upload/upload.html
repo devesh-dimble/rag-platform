@@ -1,0 +1,19 @@
+<div class="upload-panel">
+    <h2>Upload Document</h2>
+  
+    <label>PDF file
+      <input type="file" accept=".pdf" (change)="onPdfSelected($event)" />
+    </label>
+  
+    <label>Layout JSON
+      <input type="file" accept=".json" (change)="onJsonSelected($event)" />
+    </label>
+  
+    <button (click)="upload()" [disabled]="!pdfFile || !jsonFile || status() === 'uploading'">
+      {{ status() === 'uploading' ? 'Uploading...' : 'Ingest' }}
+    </button>
+  
+    @if (message()) {
+      <p [class]="status()">{{ message() }}</p>
+    }
+  </div>

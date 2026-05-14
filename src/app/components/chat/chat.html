@@ -1,0 +1,38 @@
+<div class="chat-panel">
+    <h2>Chat</h2>
+  
+    @if (!store.documentId()) {
+      <p class="hint">Upload a document first.</p>
+    }
+  
+    <div class="input-row">
+      <input
+        type="text"
+        [(ngModel)]="question"
+        placeholder="Ask a question..."
+        [disabled]="!store.documentId() || loading()"
+        (keyup.enter)="ask()"
+      />
+      <button (click)="ask()" [disabled]="!store.documentId() || loading() || !question.trim()">
+        {{ loading() ? '...' : 'Send' }}
+      </button>
+    </div>
+  
+    @if (answer()) {
+      <div class="answer">
+        <p>{{ answer() }}</p>
+      </div>
+  
+      <div class="sources">
+        @for (chunk of sources(); track chunk.chunk_id; let i = $index) {
+          <button
+            class="source-btn"
+            [class.active]="activeChunkId() === chunk.chunk_id"
+            (click)="activateSource(chunk, i)"
+          >
+            Source {{ i + 1 }}
+          </button>
+        }
+      </div>
+    }
+  </div>

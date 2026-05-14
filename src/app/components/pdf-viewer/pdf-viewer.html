@@ -1,0 +1,18 @@
+<div class="pdf-panel">
+    <h2>Document</h2>
+  
+    @if (!store.pdfBytes()) {
+      <p class="hint">No document loaded.</p>
+    } @else {
+      <div class="page-nav">
+        <button (click)="prevPage()" [disabled]="store.activePage() <= 1">&#8249;</button>
+        <span>Page {{ store.activePage() }} / {{ totalPages() }}</span>
+        <button (click)="nextPage()" [disabled]="store.activePage() >= totalPages()">&#8250;</button>
+      </div>
+  
+      <div class="canvas-wrapper">
+        <canvas #canvas></canvas>
+        <div #overlay class="highlight-overlay"></div>
+      </div>
+    }
+  </div>

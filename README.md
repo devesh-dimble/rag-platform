@@ -1,59 +1,112 @@
-# RagPlatform
+# RAG platform
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.5.
+Angular frontend for PDF viewing and chat, plus a FastAPI backend that ingests layout-aware text blocks into [Qdrant](https://qdrant.tech/) and answers questions with [Ollama](https://ollama.com/). Clicking a retrieved source highlights the matching region on the PDF.
 
-## Development server
+## Prerequisites
 
-To start a local development server, run:
+- **Node.js** (LTS) and **npm** — for the Angular app
+- **Python 3.11+** — for the backend
+- **Docker** (recommended) or a local **Qdrant** install — vector database on port `6333`
+- **Ollama** — embeddings and chat; must expose the default API (typically `http://localhost:11434`)
 
-```bash
-ng serve
-```
+## Models (Ollama)
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Pull the models referenced by the backend before ingesting or querying:
 
 ```bash
-ng generate component component-name
+ollama pull jina/jina-embeddings-v2-base-de
+ollama pull llama3.2
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Embedding and chat model names are defined in `backend/ingest.py` and `backend/query.py` if you want to change them.
+
+## Run Qdrant
 
 ```bash
-ng generate --help
+docker run -p 6333:6333 qdrant/qdrant
 ```
 
-## Building
+The backend expects Qdrant at `http://localhost:6333` (see `backend/ingest.py`).
 
-To build the project run:
+## Run the backend
+
+From the repository root:
 
 ```bash
-ng build
+cd backend
+python -m venv venv
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Activate the virtual environment:
 
-## Running unit tests
+- **Windows:** `venv\Scripts\activate`
+- **macOS / Linux:** `source venv/bin/activate`
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+Then:
 
 ```bash
-ng test
+pip install -r requirements.txt
+uvicorn main:app --reload --host 127.0.0.1 --port 8000
 ```
 
-## Running end-to-end tests
+- Health check: [http://127.0.0.1:8000/health](http://127.0.0.1:8000/health)
+- CORS is configured for the Angular dev server at `http://localhost:4200` (`backend/main.py`).
 
-For end-to-end (e2e) testing, run:
+## Run the frontend
+
+From the repository root:
 
 ```bash
-ng e2e
+npm install
+npm start
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+Open [http://localhost:4200](http://localhost:4200). The build copies `pdf.worker.min.mjs` from `pdfjs-dist` so the PDF viewer can load documents in the browser.
 
-## Additional Resources
+## Using the PDF highlighter and RAG flow
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+1. Start **Qdrant**, **Ollama** (with the models above), the **backend**, then **Angular** (`npm start`).
+2. Prepare a **layout JSON** file alongside your PDF. The ingest API expects JSON with:
+   - `pdf_path` (optional): used as `document_id` if present; otherwise the uploaded PDF filename is used.
+   - `blocks`: array of objects, each with at least:
+     - `text` — chunk text for embedding and display
+     - `page` — 1-based page number
+     - `bbox` — `[x0, y0, x1, y1]` in **PDF layout coordinates** (top-origin); the viewer scales these to match the rendered page.
+
+   Example:
+
+   ```json
+   {
+     "pdf_path": "my-doc.pdf",
+     "blocks": [
+       {
+         "text": "Sample paragraph text.",
+         "page": 1,
+         "bbox": [72, 100, 400, 130],
+         "type": "paragraph"
+       }
+     ]
+   }
+   ```
+
+3. In the app, select the **PDF** and **layout JSON**, then upload. Chunks are embedded and stored in Qdrant scoped by `document_id`.
+4. Ask a question in chat. Answers include **sources**; choosing a source jumps to that page and draws a highlight overlay from the chunk’s `bbox`.
+
+If ingestion or query returns no sources, confirm Qdrant is running, Ollama models are pulled, and `document_id` from the ingest response matches the document used for `/query`.
+
+## API overview
+
+| Method | Path | Purpose |
+|--------|------|---------|
+| `GET` | `/health` | Liveness |
+| `POST` | `/ingest` | Multipart: `pdf` + `layout` (`.json`) |
+| `POST` | `/query` | JSON body: `question`, `document_id` |
+
+The Angular app calls `http://localhost:8000` for these endpoints. For production, point the frontend at your deployed API and align CORS in `main.py`.
+
+## Project layout
+
+- `src/` — Angular application (upload, PDF viewer, chat)
+- `backend/` — FastAPI app (`main.py`), ingest/query logic, `requirements.txt`
+
+## License

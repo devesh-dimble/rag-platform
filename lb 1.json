@@ -1,0 +1,2945 @@
+{
+  "pdf_path": "documents\\Baubeschreibung ENB Sudershausen.pdf",
+  "model_name": "microsoft/layoutlmv3-base",
+  "total_pages": 25,
+  "total_blocks": 267,
+  "blocks": [
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        62.040000915527344,
+        181.12998962402344,
+        265.1991271972656,
+        201.19998168945312
+      ],
+      "text": "BAUBESCHREIBUNG"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        62.040000915527344,
+        263.0737609863281,
+        487.00311279296875,
+        278.7283630371094
+      ],
+      "text": "Bauvorhaben:  Ersatzneubau der Brücke über den Beverbach"
+    },
+    {
+      "type": "other",
+      "page": 1,
+      "bbox": [
+        195.13999938964844,
+        291.1837463378906,
+        402.9731140136719,
+        306.8383483886719
+      ],
+      "text": "in Flecken Nörten-Hardenberg –"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        195.13999938964844,
+        319.2637634277344,
+        312.7131042480469,
+        334.9183654785156
+      ],
+      "text": "OT Sudershausen"
+    },
+    {
+      "type": "heading",
+      "page": 1,
+      "bbox": [
+        195.13999938964844,
+        347.3437805175781,
+        364.0931091308594,
+        362.9983825683594
+      ],
+      "text": "Pfarrweg in Sudershausen"
+    },
+    {
+      "type": "paragraph",
+      "page": 1,
+      "bbox": [
+        56.63999938964844,
+        803.2421875,
+        526.6748657226562,
+        818.757568359375
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  1/25"
+    },
+    {
+      "type": "heading",
+      "page": 2,
+      "bbox": [
+        232.61000061035156,
+        76.47379302978516,
+        357.9731140136719,
+        92.1283950805664
+      ],
+      "text": "Inhaltsverzeichnis"
+    },
+    {
+      "type": "table",
+      "page": 2,
+      "bbox": [
+        56.63999938964844,
+        92.5538101196289,
+        532.8519897460938,
+        779.3759765625
+      ],
+      "text": "1.   Allgemeine Beschreibung der Leistungen ............................................................................. 4   1.1   Auszuführende Leistungen .................................................................................... 6   1.1.1   Art und Umfang ..................................................................................................... 6   1.1.2.   Verkehrswege und Baustelleneinrichtung.............................................................. 9   1.1.3.   Bauwerksgestaltung .............................................................................................. 9   1.1.5.   Geländerarbeiten ................................................................................................ 10   1.1.6.   Gerüstbauarbeiten .............................................................................................. 10   1.1.7.   Verkehrsführung .................................................................................................. 10   1.1.8.   Abbrucharbeiten .................................................................................................. 11   1.1.9   Bauwerksbezogene Maßnahmen ........................................................................ 12   1.1.9.1   Erdarbeiten ......................................................................................................... 12   1.1.9.2   Ausgeführte Vorarbeiten ..................................................................................... 12   1.1.9.3   Gleichzeitig laufende Bauarbeiten ....................................................................... 12   1.1.9.4   Mindestanforderungen an Nebenangebote ......................................................... 12   2.   Angaben zur Baustelle ........................................................................................................ 12   2.1   Lage der Baustelle .............................................................................................. 12   2.2   Vorhandene öffentliche Verkehrswege ................................................................ 12   2.3   Zugänge, Zufahrten ............................................................................................. 12   2.4   Anschlussmöglichkeiten an Ver- und Entsorgungsleitungen................................ 13   2.5   Lager – und Arbeitsplätze ................................................................................... 13   2.6   Gewässer ............................................................................................................ 14   2.7   Baugrundverhältnisse.......................................................................................... 14   2.8   Seitenentnahmen und Ablagerungsstellen .......................................................... 15   2.9   Schutzbereiche und -objekte ............................................................................... 15   2.10   Anlagen im Baubereich ....................................................................................... 15   2.11   Öffentlicher Verkehr im Baustellenbereich ........................................................... 16   2.12   Kampfmittel ......................................................................................................... 16   3.   Angaben zur Ausführung .................................................................................................... 16   3.1   Verkehrsführung, Verkehrssicherung .................................................................. 16   3.2   Freihalten von Durchflussprofilen ........................................................................ 18   3.3   Bauablauf ............................................................................................................ 18   3.4   Wasserhaltung .................................................................................................... 19   3.5   Baubehelfe .......................................................................................................... 19   3.6   Stoffe, Bauteile .................................................................................................... 19   3.6.1   Betonersatzsysteme (PCC) ................................................................................. 20   3.6.2   Oberflächenschutzsysteme (OS) ......................................................................... 20   3.6.3   Rissfüllstoffe (EP-I) ............................................................................................. 20   3.6.4   Fugenmörtel ........................................................................................................ 20   3.6.5   Beschichtungsstoffe und –systeme (Korrosionsschutz) ....................................... 20   3.7   Abfälle ................................................................................................................. 20   3.8   Winterbau ............................................................................................................ 20   3.9   Zustandsfeststellung ........................................................................................... 21   3.10   Schlussabnahme ................................................................................................. 21   3.11   Bauleitungen mit Fremdüberwachung ................................................................. 21   3.12   Genehmigungsverfahren ..................................................................................... 21   3.13   Weitere Hinweise zur Ausführung ....................................................................... 22   3.14   Prüfungen ........................................................................................................... 22   3.14.1   Eignungsprüfungen ............................................................................................. 22   3.14.2   Eigenüberwachungsprüfungen ............................................................................ 22   3.14.3   Kontrollprüfungen ................................................................................................ 23   3.15   Prüfung zur Vorbereitung der Abnahme .............................................................. 23   3.16   Baubesprechungen ............................................................................................. 23   4.   Ausführungsunterlagen ....................................................................................................... 23"
+    },
+    {
+      "type": "paragraph",
+      "page": 2,
+      "bbox": [
+        56.63999938964844,
+        803.2421875,
+        526.6748657226562,
+        818.757568359375
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  2/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 3,
+      "bbox": [
+        56.63999938964844,
+        76.40876770019531,
+        532.8519897460938,
+        202.49839782714844
+      ],
+      "text": "4.1   Vom Auftraggeber zur Verfügung gestellte Ausführungsunterlagen .................... 23   4.2   Vom Auftragnehmer zu erstellende bzw. zu beschaffende Ausführungs- ............ 24   unterlagen ........................................................................................................................... 24   5.   Zusätzliche Technische Vertragsbedingungen .................................................................... 24   5.1   Baustelleneinrichtung / Allgemein für alle Arbeiten .............................................. 25   5.1.1   Richtlinien für die Sicherung von Arbeitsstellen an Straßen RSA ........................ 25   5.1.2   Zusätzliche Technische Vertragsbedingungen und Richtlinien für  Sicherungsarbeiten an Arbeitsstellen an Straßen ZTV-SA .................................................. 25   5.1.3   Richtlinien für Lichtsignalanlagen RiL .................................................................. 25"
+    },
+    {
+      "type": "table_caption",
+      "page": 3,
+      "bbox": [
+        56.63999938964844,
+        803.2421875,
+        526.6748657226562,
+        818.757568359375
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  3/25"
+    },
+    {
+      "type": "heading",
+      "page": 4,
+      "bbox": [
+        81.86399841308594,
+        99.84498596191406,
+        546.4569091796875,
+        134.05160522460938
+      ],
+      "text": "Ersatzneubau der Brücke über den Beverbach  in der Gemeinde Flecken Nörten-Hardenberg– OT Sudershausen"
+    },
+    {
+      "type": "other",
+      "page": 4,
+      "bbox": [
+        70.94400024414062,
+        164.59996032714844,
+        353.6860046386719,
+        177.97996520996094
+      ],
+      "text": "1.  Allgemeine Beschreibung der Leistungen"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.54000091552734,
+        190.3087921142578,
+        541.84912109375,
+        263.3383483886719
+      ],
+      "text": "Die bestehende Brücke über den Beverbach im Zuge der Straße Pfarrweg im Ortsteil  Sudershausen Flecken Nörten-Hardenberg wurde im Prüfbericht der Hauptprüfung 2016  H mit der Zustandsnote 3,40 bewertet. Sie weist erhebliche Mängel in der Standsicher- heit und Dauerhaftigkeit auf, sodass eine Sanierung des Bauwerks unwirtschaftlich ist.  Der Flecken Nörten-Hardenberg plant einen Ersatzneubau an gleicher Stelle."
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.54000091552734,
+        278.17877197265625,
+        541.7360229492188,
+        320.8483581542969
+      ],
+      "text": "Die bestehende Brücke überführt den Beverbach als Gemeindestraße. Eine getrennte  Führung von Fußgänger, Radfahrer und Fahrzeugen ist bei der geringen Verkehrsbe- lastung nicht vorgesehen."
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.54000091552734,
+        335.7787780761719,
+        541.7716064453125,
+        393.568359375
+      ],
+      "text": "Im Bauwerksbereich verläuft die Straße Pfarrweg in einer Geraden. Der Kreuzungswin- kel zwischen Straße und Gewässer liegt in einem Winkel von ca. 100gon. Die lichte Höhe  über dem Bachlauf lag zum Zeitpunkt der Vermessung bei ca. 1,80m unter Unterkante  der Bestandsbrücke. Die Konstruktionshöhe wird für den Ersatzneubau vergrößert."
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.54000091552734,
+        408.498779296875,
+        541.7777709960938,
+        435.9283752441406
+      ],
+      "text": "Gemäß Auskunft der Flecken Nörten-Hardenberg, sind im Bauwerksbereich folgende  Leitungen vorhanden:"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        131.5399932861328,
+        450.8587646484375,
+        528.049072265625,
+        463.1683654785156
+      ],
+      "text": "-  Kanal Frisch- und Abwasser mit DN 500(Freigabe erst nach Kanalbefahrung)"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        131.5399932861328,
+        477.998779296875,
+        538.8029174804688,
+        505.5483703613281
+      ],
+      "text": "-  EAM und Telekom: in Dükerrohr 2x DN 125 (max. 4,50 m unter Bestand Pfarr- weg)"
+    },
+    {
+      "type": "other",
+      "page": 4,
+      "bbox": [
+        131.5399932861328,
+        520.3587646484375,
+        229.6791229248047,
+        532.6683959960938
+      ],
+      "text": "-  Strom (Laterne)"
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.54000091552734,
+        547.5987548828125,
+        541.6825561523438,
+        590.2683715820312
+      ],
+      "text": "Vor Angebotsabgabe wird dringend empfohlen die Örtlichkeiten zu Besichtigen  und sich einen Überblick über die vorherrschenden Gegebenheiten zu machen.  Eine Nachtragsstellung aufgrund von Unwissenheit wird nicht stattgegeben."
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.54000091552734,
+        605.0787353515625,
+        541.7459106445312,
+        632.62841796875
+      ],
+      "text": "Die vorhandenen Stromleitungen sind im Zuge der Baumaßnahme aus dem Bereich des  Brückenbauwerks zu verlegen."
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.54000091552734,
+        647.46875,
+        541.6822509765625,
+        675.0183715820312
+      ],
+      "text": "Kanal und Wasser liegen im Zuständigkeitsbereich der Gemeinde. Bezüglich der übrigen  Leitungen ist mit dem jeweils zuständigen Versorger Kontakt aufzunehmen."
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.54000091552734,
+        689.8287353515625,
+        538.6243286132812,
+        732.4984130859375
+      ],
+      "text": "Angrenzend an das Baufeld des Brückenbauwerks, befindet sich ein großer Kastanien- baum, der während der Bauarbeiten zu sichern ist. Die Sicherung des Baums ist in Ab- sprache mit der zuständigen Baumpflege und dem AG vor Baubeginn abzustimmen."
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        113.54000091552734,
+        747.4248046875,
+        538.8438720703125,
+        774.8544311523438
+      ],
+      "text": "Bestandsunterlagen, Standsicherheitsnachweise oder Ausführungspläne des Bestands- bauwerks sind nicht vorhanden. Das Baujahr des Bauwerks ist unbekannt."
+    },
+    {
+      "type": "paragraph",
+      "page": 4,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  4/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.54000091552734,
+        99.58876037597656,
+        541.849365234375,
+        187.85838317871094
+      ],
+      "text": "Die Bemessung des Ersatzneubaus erfolgt für Straßenbrücken gem. DIN EN 1991-2  Lokalverkehr ohne Belastung aus Schwerverkehr. Für die Bemessung wurde ein abge- mindertes LM1 mit αQ und αq mit dem Faktor 0,7 gemäß Beton und Stahlbetonbau Heft  9 (Ausgabe 110, 2015) angesetzt. Dieser Belastungsansatz, ist gleichzustellen mit ei- nem SLW 30 gemäß DIN 1072. Ein Schwerlastfahrzeug von 40 t wird mit dieser Belas- tung abgedeckt. Für die Regelverkehrsführung ist keine Beschilderung notwendig."
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.54000091552734,
+        202.6687774658203,
+        449.89910888671875,
+        214.97837829589844
+      ],
+      "text": "Aufgrund der Bauwerksbreite wird lediglich eine Fahrspur angesetzt."
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.54000091552734,
+        229.9087677001953,
+        538.7125244140625,
+        257.3383483886719
+      ],
+      "text": "Eine Bemessung und Einstufung des Bauwerks in Militärlasten nach STANAG 2021 ent- fällt."
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        113.54000091552734,
+        272.17877197265625,
+        538.9524536132812,
+        299.7283630371094
+      ],
+      "text": "Das Bauwerk wird unter Berücksichtigung der RE-ING Teil 2 Abschnitt 5 „Integrale Bau- werke“ beplant."
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94400024414062,
+        314.53875732421875,
+        553.0350341796875,
+        390.2083740234375
+      ],
+      "text": "Folgendes Bauwerk wird im Rahmen dieser Ausschreibung neu errichtet:    Brücke über den Beverbach in der Gemeinde Flecken Nörten-Hardenberg – OT Sudershau- sen, Pfarrweg"
+    },
+    {
+      "type": "image",
+      "page": 5,
+      "bbox": [
+        139.10000610351562,
+        390.1099548339844,
+        484.58001708984375,
+        661.7099609375
+      ],
+      "text": ""
+    },
+    {
+      "type": "image",
+      "page": 5,
+      "bbox": [
+        139.10000610351562,
+        390.1099548339844,
+        484.58001708984375,
+        661.7099609375
+      ],
+      "text": ""
+    },
+    {
+      "type": "image_caption",
+      "page": 5,
+      "bbox": [
+        156.02000427246094,
+        402.73876953125,
+        313.91912841796875,
+        415.0483703613281
+      ],
+      "text": "Überführungsbauwerk Bestand"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        228.0500030517578,
+        651.7887573242188,
+        487.7291259765625,
+        674.4183959960938
+      ],
+      "text": "Lage des Bauwerks (Quelle: Google Maps)"
+    },
+    {
+      "type": "paragraph",
+      "page": 5,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  5/25"
+    },
+    {
+      "type": "heading",
+      "page": 6,
+      "bbox": [
+        70.94400024414062,
+        99.67997741699219,
+        271.58599853515625,
+        113.05997467041016
+      ],
+      "text": "1.1  Auszuführende Leistungen"
+    },
+    {
+      "type": "other",
+      "page": 6,
+      "bbox": [
+        70.94400024414062,
+        125.38880920410156,
+        199.7991180419922,
+        153.2983856201172
+      ],
+      "text": "1.1.1  Art und Umfang"
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        113.54000091552734,
+        153.7088165283203,
+        556.0090942382812,
+        264.6583557128906
+      ],
+      "text": "Bei den auszuführenden Leistungen handelt es sich um den Ersatzneubau des Bauwerkes  zur Verbesserung der Verkehrssicherheit und Gewährleistung der Standsicherheit.     Das neue Bauwerk wird als Einfeldsystem aus schlaff bewehrten Fertigteilen auf Aufla- gerbalken hergestellt. Die Tiefgründung des Bauwerks erfolgt mittels Mikropfählen.  Durch die gewählte Konstruktion wird der Eingriff im Umfeld der Brücke minimiert.  Die Bewehrung wird in der Stahlgüte B500B ausgeführt."
+    },
+    {
+      "type": "image",
+      "page": 6,
+      "bbox": [
+        113.44999694824219,
+        267.1899719238281,
+        550.1400146484375,
+        466.1899719238281
+      ],
+      "text": ""
+    },
+    {
+      "type": "image",
+      "page": 6,
+      "bbox": [
+        113.44999694824219,
+        267.1899719238281,
+        550.1400146484375,
+        466.1899719238281
+      ],
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        113.54000091552734,
+        456.8787841796875,
+        553.3690795898438,
+        770.2943725585938
+      ],
+      "text": "Die gewählte Konstruktion gewährleistet ein robustes und dauerhaftes Tragwerk, wel- ches zudem ein Minimum an Unterhaltungsaufwendungen erfordert.    Die Gründung erfolgt mit Mikropfählen, der Eingriff in den Straßenraum wird durch die  Tiefgründung minimiert. Nach Bodengutachten ergibt sich eine Absetztiefe von mindes- tens 5,00 m unter GOK. Es wird eine Einbindetiefe ≥ 2,50 m in die tragfähigen Schichten  gewährleistet.    Unterhalb der Pfahlkopfbalken und seitlich zu den Mikropfählen wird eine 0,10 m dicke  Betonsauberkeitsschicht angeordnet.   Die Widerlageransichten erhalten eine Verkleidung mittels Gabionen.   Übergangs- und Lagerkonstruktionen sind bei dieser Art von Rahmentragwerk nicht not- wendig und können entfallen.   Die Fahrbahnübergange werden gemäß RIZ-Ing Abs 4 ausgeführt.     Der Kreuzungswinkel des Bauwerks mit der Achse des Beverbachs beträgt 100gon.    Die Überbaubreite beläuft sich durchgehend auf 5,00 m. Im Tiefpunkt weißt der Überbau  eine Stärke von 0,35 m auf."
+    },
+    {
+      "type": "paragraph",
+      "page": 6,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  6/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        113.54000091552734,
+        99.58876037597656,
+        541.8269653320312,
+        248.45835876464844
+      ],
+      "text": "Das Quergefälle wird mit 2,0 % ausgebildet. In Richtung Achse A erhält der Überbau ein  Längsgefälle von 1,0 %.  Die Stützweite beträgt zwischen den Bauwerksachsen 6,35m. Zwischen den Vorsatz- schalen der Widerlager ist eine lichte Weite von 5,35 m vorhanden.  Die kleinste lichte Höhe liegt an der Kante vom Pfahlkopfbalken in der Achse A, bei ca.  1,64 m.  Zwischen den Geländern ist eine konstante Breite von 4,5 m vorhanden.   Es werden Kappen analog Kap 6 der Richtzeichnung vorgesehen.  Die Kappen werden mit einem Leerrohr DN 100 ausgestattet."
+    },
+    {
+      "type": "other",
+      "page": 7,
+      "bbox": [
+        138.5,
+        263.5087890625,
+        242.2791290283203,
+        275.8183898925781
+      ],
+      "text": "Hauptabmessungen:"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        138.5,
+        288.1387939453125,
+        529.4890747070312,
+        300.4483947753906
+      ],
+      "text": "Straßenverkehrslasten     nach DIN EN 1992-2 mit αQ und αq = 0,7"
+    },
+    {
+      "type": "other",
+      "page": 7,
+      "bbox": [
+        138.5,
+        312.6187744140625,
+        431.41912841796875,
+        324.9283752441406
+      ],
+      "text": "Stützweite  6,35 m"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        138.5,
+        337.2187805175781,
+        428.41912841796875,
+        349.52838134765625
+      ],
+      "text": "Lichte Weite zwischen den Widerlagern  5,35 m"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        138.5,
+        361.6987609863281,
+        428.41912841796875,
+        374.00836181640625
+      ],
+      "text": "Breite zwischen den Geländern  4,50 m"
+    },
+    {
+      "type": "other",
+      "page": 7,
+      "bbox": [
+        138.5,
+        386.29876708984375,
+        428.41912841796875,
+        398.6083679199219
+      ],
+      "text": "Breite Überbau  5,00 m"
+    },
+    {
+      "type": "other",
+      "page": 7,
+      "bbox": [
+        138.5,
+        410.7787780761719,
+        428.41912841796875,
+        423.08837890625
+      ],
+      "text": "Kleinste lichte Höhe  1,80 m"
+    },
+    {
+      "type": "other",
+      "page": 7,
+      "bbox": [
+        138.5,
+        435.3787841796875,
+        428.41912841796875,
+        447.6883850097656
+      ],
+      "text": "Kreuzungswinkel  100 gon"
+    },
+    {
+      "type": "other",
+      "page": 7,
+      "bbox": [
+        138.5,
+        484.478759765625,
+        342.7391357421875,
+        496.7883605957031
+      ],
+      "text": "Trassierungselemente im Brückenbereich"
+    },
+    {
+      "type": "other",
+      "page": 7,
+      "bbox": [
+        138.5,
+        509.0787353515625,
+        244.19912719726562,
+        521.3883666992188
+      ],
+      "text": "Auf der Brücke"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        138.5,
+        533.5587768554688,
+        354.9791259765625,
+        545.868408203125
+      ],
+      "text": "im Grundriss  Liegt in einer Geraden"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        138.5,
+        558.1588134765625,
+        351.9791259765625,
+        570.4684448242188
+      ],
+      "text": "im Aufriss  Liegt in einer Geraden"
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        113.54000091552734,
+        582.518798828125,
+        541.70654296875,
+        761.8944091796875
+      ],
+      "text": "Der Planung lag die Baugrunderkundung und Gründungsberatung von Ingenieurbüro R.- U. Wode, Beratende Ingenieure und Geologen, vom 23.06.2021 zugrunde.    Nach den Ergebnissen der Baugrunderkundungen stehen im Bereich des Brückenbau- werks oberflächennah bindige Schwemmablagerungen an. Der Schwemmlehm geht ab  rund 186,8 mNN bzw. rd. 188,1 mNN in Schwemmsand in mitteldichter bis dichter Lage- rung über.   Zur Tiefe wird verwitterte Fels des mittleren Bundsandsteins, die in mindestens dichter  Lagerung/ halbfester bis fester Konsistenz angetroffen. Von dort aus konnte mit Klein- bohrgeräten nicht weiter gebohrt werden (Übergang in angewitterten Fels)."
+    },
+    {
+      "type": "paragraph",
+      "page": 7,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  7/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        113.54000091552734,
+        99.58876037597656,
+        541.6714477539062,
+        172.61839294433594
+      ],
+      "text": "Die Lasten des neuen Bauwerks können allgemein über eine Tiefgründung in Form von  Mikropfählen in Verbindung mit Pfahlkopfbalken in den Baugrund abgetragen werden.    Im Zuge der Geländearbeiten am 02.06.2021 wurde Wasser in folgender Tiefe einge- messen:"
+    },
+    {
+      "type": "image",
+      "page": 8,
+      "bbox": [
+        113.44999694824219,
+        175.13998413085938,
+        510.84002685546875,
+        343.489990234375
+      ],
+      "text": ""
+    },
+    {
+      "type": "image",
+      "page": 8,
+      "bbox": [
+        113.44999694824219,
+        175.13998413085938,
+        510.84002685546875,
+        343.489990234375
+      ],
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94400024414062,
+        333.6187744140625,
+        539.7945556640625,
+        525.7084350585938
+      ],
+      "text": "Die OK Wasseroberfläche liegt bei 187,09 m NHN.   Es ist mit wechselnden Wasserständen zu rechnen. Die eingemessenen Grundwasser- stände korrespondieren mit den wechselnden Wasserständen.     Als Bemessungswasserstand sollte anhand der vorliegenden Ergebnisse, vorbehaltlich  einer langfristigen Beobachtungsreihe, für das Bauvorhaben eine HGW = 187,25 m  NHN angesetzt werden.     Für eine vorgesehene Grundwasserhaltung ist vorab beim Fachdienst Umwelt und Kli- maschutz des zuständigen Landkreises, rechtzeitig eine wasserrechtliche Erlaubnis in  Eigenverantwortung durch den AN zu beantragen."
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        113.54000091552734,
+        528.518798828125,
+        541.8486938476562,
+        783.734375
+      ],
+      "text": "Die Baugruben werden mit grob- und gemischtkörnigem Boden wieder verfüllt.    Die im Bereich der Baugruben aufgebrochenen Anschlussbereiche werden analog zum  Bestand wiederhergestellt bzw. an das neue Brückenbauwerk an modelliert.    Die Sichtflächen sind in Sichtbeton mit vertikal ausgerichteter gehobelter Brettschalung  herzustellen. Der Schalungsverlauf der Kappenansichtsfläche soll parallel zur Gradiente  der Straße „Im Erlengrund“ gerichtet sein. Die Oberflächen der Kappen erhalten einen  Besenstrich.    Alle sichtbaren Betonkanten sind mit Dreikantleisten 1,5/1,5 cm zu brechen.    Das Baujahr wird gemäß RIZ-ING Jahr 1 am Gesims der Ostseite dauerhaft dokumen- tiert.     Zur Vermeidung von Auskolkungen, wird im Bereich der Vorsatzschalen eine Gabionen- wand errichtet."
+    },
+    {
+      "type": "paragraph",
+      "page": 8,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  8/25"
+    },
+    {
+      "type": "other",
+      "page": 9,
+      "bbox": [
+        70.94400024414062,
+        99.58876037597656,
+        333.1391296386719,
+        127.4983901977539
+      ],
+      "text": "1.1.2.  Verkehrswege und Baustelleneinrichtung"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        113.54000091552734,
+        127.90876770019531,
+        541.8017578125,
+        231.2983856201172
+      ],
+      "text": "Die Achse der bestehenden Straßenführung „Pfarrweg“ bleibt bestehen.  Die vorhandenen Fahrbahnquerschnitte mit Längs- und Querneigungen werden beibe- halten.   Sollte der AN Flächen zur Baustelleneinrichtung benötigen, können die in dem Abschnitt  BE-Fläche angegebenen Flächen in Abstimmung mit Flecken Nörten-Hardenberg ver- wendet werden."
+    },
+    {
+      "type": "heading",
+      "page": 9,
+      "bbox": [
+        70.94400024414062,
+        246.10877990722656,
+        224.2791290283203,
+        274.1383972167969
+      ],
+      "text": "1.1.3.  Bauwerksgestaltung"
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        113.54000091552734,
+        274.45880126953125,
+        541.793212890625,
+        757.3344116210938
+      ],
+      "text": "Das neue Bauwerk wird als Einfeldsystem aus Betonfertigteilen auf Auflagerbalken her- gestellt.   Die Tiefgründung erfolgt mit Mikropfählen.     Die Widerlageransichten erhalten eine Verkleidung mittels Gabionenwand.  Übergangs- und Lagerkonstruktionen sind bei dieser Art von Rahmentragwerk nicht not- wendig und können entfallen.    Der kontinuierliche Übergang zwischen der Dammschüttung der Straße und den Brü- ckenüberbau wird durch die Anordnung von Pfahlkopfbalken gewährleistet.  Der Überbau wird fugenlos an die Unterbauten angeschlossen.     Die Pfahlkopfbalken werden mit Beton der Festigkeitsklasse C 30/37 ausgeführt.  Als Bewehrung ist ein Betonstahl B500B vorgesehen. Die Pfahlkopfbalken werden mit  einer Breite von 1,00m und einer Höhe von ca. 60 cm ausgeführt.     Auf die klassische Ausbildung von Flügeln wird aufgrund der geringen Bauhöhe des  Bauwerks verzichtet.  Die bestehenden Stützwände beidseitig des Ersatzneubaus können unverändert beste- hen bleiben und werden nur im Zuge der Bauausführung teilweise abgetragen und an- schließend reprofiliert und an die zu errichtende Gabionenwand angeschlossen.   Die angrenzenden Pflasterflächen der Anliegergrundstücke werden im Bereich der Bau- gruben aufgenommen, seitlich gelagert und anschließend wieder eingebaut.     Der Fahrbahnübergang wird gemäß RIZ-Ing Abs 4 ausgeführt.     Der Kreuzungswinkel des Bauwerks mit der Achse des Beverbachs beträgt 100gon.    Die Überbaubreite beläuft sich durchgehend auf 5,00 m. Im Tiefpunkt weißt der Überbau  eine Stärke von 0,35 m auf.  Das Quergefälle wird mit 2,0 % ausgebildet. In Richtung Achse A erhält der Überbau ein  Längsgefälle von 1,0 %."
+    },
+    {
+      "type": "paragraph",
+      "page": 9,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  9/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        113.54000091552734,
+        99.58876037597656,
+        541.8269653320312,
+        202.97837829589844
+      ],
+      "text": "Die Stützweite beträgt zwischen den Bauwerksachsen 6,35 m. Zwischen den Vorsatz- schalen der Widerlager ist eine lichte Weite von 5,35 m vorhanden.  Die kleinste lichte Höhe liegt an der Kante vom Pfahlkopfbalken in der Achse A, bei ca.  1,60 m.  Zwischen den Geländern ist eine konstante Breite von 4,50 m vorhanden.   Es werden Kappen analog Kap 6 der Richtzeichnung vorgesehen.  Die Kappen werden mit einem Leerrohr DN 100 ausgestattet."
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        70.94400024414062,
+        217.9087677001953,
+        207.11912536621094,
+        245.8184051513672
+      ],
+      "text": "1.1.5.  Geländerarbeiten"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        113.54000091552734,
+        246.10877990722656,
+        556.0090942382812,
+        501.3483581542969
+      ],
+      "text": "Als Absturzsicherung für Fußgänger wird auf den Kappen ein Geländer angeordnet.    Aufgrund der geringen Absturzhöhe < 12,0 m ist eine Geländerhöhe von h = 1,0 m aus- reichend.    Die Verankerung des Geländers erfolgt auf im Kappenbereich analog RIZ Gel 14 mit Ver- bundankern im Konstruktionsbeton.    Das Geländer wird als Füllstab-Geländer in Stahlbauweise errichtet. Die Ausführung erfolgt  gemäß BMV RIZ Gel 4 und 14. Die Ausbildung des Geländerabschlusses am Kappenende  wird gem. RIZ Gel 19, Blattt1 ausgeführt.   Das Geländer wird für einen ausreichenden Korrosionsschutz nach ZTV-Kor feuerverzinkt  und erhält eine Zwischenbeschichtung und eine Deckbeschichtung. Die Farbe ist in „RAL  7043 Verkehrsgrau“ auszuführen.    Die Absturzsicherung für Straßenverkehr wird durch ein 20 cm über die Fahrbahn heraus- ragender Schrammbord realisiert, welcher ein Auffahren von Fahrzeugen verhindern soll."
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        70.94400024414062,
+        516.27880859375,
+        214.43911743164062,
+        544.1884155273438
+      ],
+      "text": "1.1.6.  Gerüstbauarbeiten"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        113.54000091552734,
+        544.478759765625,
+        555.9234619140625,
+        632.7484130859375
+      ],
+      "text": "Für das Bauwerk mit einer maximalen Bauhöhe von < 2,00 m sind keine Gerüstbauarbeiten  vorgesehen.  Traggerüste sind aufgrund der verwendeten Überbaufertigteile lediglich für die Herstellung  der Kappen erforderlich.    Für die Arbeiten zur Herstellung der Mikropfähle, einhergehend mit der Überfahrt der Be- standsbrücke, ist keine Abstützung des Bestands erforderlich."
+    },
+    {
+      "type": "heading",
+      "page": 10,
+      "bbox": [
+        70.94400024414062,
+        645.0687866210938,
+        205.31912231445312,
+        673.098388671875
+      ],
+      "text": "1.1.7.  Verkehrsführung"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        113.54000091552734,
+        673.3887939453125,
+        541.7474365234375,
+        761.6544189453125
+      ],
+      "text": "Die Straße „Pfarrweg“ wurde bereits für den Fahrzeugverkehr über 2,0 t gesperrt.     Für die Baumaßnahme ist keine Umleitung des gesamten Verkehrs vorgesehen.  Im Zuge der Baumaßnahme soll das am Ende der Straße befindliche Pfarrzentrum je- derzeit erreichbar sein. Aus diesem Grund wird das Bauwerk in zwei Bauabschnitten  errichtet. Fußgänger können jederzeit über die Brücke das Pfarrzentrum erreichen. Nach"
+    },
+    {
+      "type": "paragraph",
+      "page": 10,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  10/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        113.54000091552734,
+        99.58876037597656,
+        538.624267578125,
+        127.1384048461914
+      ],
+      "text": "Abschluss des zweiten Bauabschnitts können auch Pkws das Pfarrzentrum wieder er- reichen."
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94400024414062,
+        141.9488067626953,
+        555.9827270507812,
+        784.6943969726562
+      ],
+      "text": "1.1.8.  Abbrucharbeiten    Die Abbrucharbeiten des Bestandsbauwerks starten nach der Herstellung der Mikro- pfähle hinter dem Bestandsbauwerk in der Achse A und B. Der Abbruch des Bestands- bauwerks erfolgt in zwei Bauphasen. Im ersten Bauabschnitt soll ein Teilabbruch des  Bauwerks auf der westlichen Seite durchgeführt werden. Im Anschluss daran wird die  Sauberkeitsschicht und die Gabionen samt Hinterfüllung mit erdfeuchtem Beton herge- stellt. Anschließend wird der Pfahlkopfbalken 1.BA in der Achse A und B auf der westli- chen Seite des Bauwerks errichtet. Die Herstellung der Auflagerbalken sowie des Über- baus erfolgt in zwei Bauphasen. Nach Fertigstellung der Teilbauwerke in Achse A und B  wird das erste Fertigteil eingehoben und mit dem ersten Teilabschnitt der Auflagerbalken  vergossen. Anschließend wird das Geländer auf der errichteten Kappe und dem FT (bau- zeitliche Absturzsicherung) befestigt. Nach der Sicherstellung der Absturzsicherung,  kann mit dem Abbruch in der zweiten Bauphase gestartet werden. Nach der Beendigung  des vollständigen Abbruchs, wird mit dem Herstellen des neuen Bauwerks im zweiten  Bauabschnitt gestartet.   Der Ablauf im 2. BA ist identisch zum 1. BA. Nach dem Einheben des zweiten Über- baufertigteils, wird die FT-Koppelfuge und der restliche Anschluss zu den Fertigteilen  vergossen. Das Geländer, welches während der Bauzeit auf dem 1. FT aufgebracht  wurde, wird auf die östliche Kappe versetzt. Nach Abschluss dieser Arbeiten, kann mit  der Herstellung der Abdichtung und dem Fahrbahnbelag weiter gemacht werden.     Mögliche Bruchstücke sind nach Abschluss der Abbrucharbeiten aus dem Bachbett zu  entfernen. Ebenfalls sind teilweise die Ufermauern im Bereich der Baugruben abzubre- chen und nach Fertigstellung des neuen Bauwerks wieder anzugleichen. Die Sandsteine  der bestehenden Ufermauer sind dafür soweit möglich vom übrigen Abbruchgut zu se- parieren und für den späteren Wiedereinbau zu lagern.   Das Abbruchgut ist fachgerecht zu entsorgen.     Die vorhandene Asphaltbefestigung im Bauwerksbereich ist aufzubrechen und durch den  AN zu entsorgen.    Die Entsorgung des Abbruchgutes hat gem. Zuordnung der Deponieklassen, AVV-Schlüs- seln, Verwertungsklassen und RC-Klassifizierung der Baugrunderkundung und Gründungs- beratung von Geotechnik Heiligenstadt GmbH, Beratende Ingenieure VBI, vom 16.05.2023  zu erfolgen.    Für Stoffe, welche nicht im Zuge der o.g. Untersuchung klassifiziert wurden, hat die Bepro- bung und Klassifizierung durch den AN zu erfolgen und ist in die einzelnen Positionen mit  einzukalkulieren."
+    },
+    {
+      "type": "paragraph",
+      "page": 11,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  11/25"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        99.58876037597656,
+        286.5591125488281,
+        111.89835357666016
+      ],
+      "text": "1.1.9  Bauwerksbezogene Maßnahmen"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        124.18879699707031,
+        177.68911743164062,
+        152.21836853027344
+      ],
+      "text": "1.1.9.1 Erdarbeiten"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        113.54000091552734,
+        152.50880432128906,
+        555.9971923828125,
+        240.7783660888672
+      ],
+      "text": "Für die Errichtung des Durchlassbauwerks ist eine Baugrube notwendig. Die Baugrube wird  in offener Bauweise mit einer Böschungsneigung von 45° - 60° erstellt.   Verbauten für die Errichtung der Baugrube sind nicht notwendig.    Das Bauwerk wird mit grob- und gemischtkörnigen Bodenmaterial hinterfüllt."
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        255.58876037597656,
+        245.63912963867188,
+        283.6483459472656
+      ],
+      "text": "1.1.9.2 Ausgeführte Vorarbeiten"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        113.54000091552734,
+        283.93878173828125,
+        554.4571533203125,
+        432.8083801269531
+      ],
+      "text": "Vor der Baumaßnahme werden durch den AG die im Baufeld vorhandenen Straßenschil- der und Verkehrszeichen demontiert.    Eine Abfrage zu Art und Lage der im Baufeld vorhandenen Leitungen hat vor Baubeginn  durch den AN zu erfolgen. Die vorhandenen Leitungen sind in Eigenverantwortung und  Koordination des AN in Abstimmung mit dem zuständigen Versorger sowie dem AG, aus  dem Baufeld zu verlegen.    Die Ausführungsplanung des Brückenbauwerks wird durch den AG in geprüfter Form dem  AN rechtzeitig vor Baubeginn zu Verfügung gestellt."
+    },
+    {
+      "type": "other",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        447.73876953125,
+        293.39910888671875,
+        475.6683654785156
+      ],
+      "text": "1.1.9.3 Gleichzeitig laufende Bauarbeiten"
+    },
+    {
+      "type": "other",
+      "page": 12,
+      "bbox": [
+        113.54000091552734,
+        476.0787658691406,
+        142.88912963867188,
+        488.38836669921875
+      ],
+      "text": "keine"
+    },
+    {
+      "type": "other",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        500.67877197265625,
+        337.339111328125,
+        528.7084350585938
+      ],
+      "text": "1.1.9.4 Mindestanforderungen an Nebenangebote"
+    },
+    {
+      "type": "other",
+      "page": 12,
+      "bbox": [
+        113.54000091552734,
+        528.998779296875,
+        303.2391357421875,
+        541.3084106445312
+      ],
+      "text": "Nebenangebote sind nicht zugelassen"
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        553.8262329101562,
+        290.4468994140625,
+        588.5499877929688
+      ],
+      "text": "2.  Angaben zur Baustelle"
+    },
+    {
+      "type": "other",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        603.8211669921875,
+        232.73287963867188,
+        633.8284301757812
+      ],
+      "text": "2.1  Lage der Baustelle"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        113.54000091552734,
+        634.23876953125,
+        556.010009765625,
+        661.6984252929688
+      ],
+      "text": "Die Baustelle liegt innerhalb Flecken Nörten-Hardenberg. Das Bauwerk befindet sich in der  geschlossenen Ortschaft Flecken Nörten-Hardenberg– OT Sudershausen."
+    },
+    {
+      "type": "other",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        676.8111572265625,
+        353.4728698730469,
+        706.8184204101562
+      ],
+      "text": "2.2  Vorhandene öffentliche Verkehrswege"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        113.54000091552734,
+        707.228759765625,
+        424.8191223144531,
+        719.5383911132812
+      ],
+      "text": "Das Bauwerk ist über das öffentliche Straßennetz zu erreichen."
+    },
+    {
+      "type": "heading",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        732.0071411132812,
+        238.4928741455078,
+        762.1343994140625
+      ],
+      "text": "2.3  Zugänge, Zufahrten"
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        113.54000091552734,
+        762.4248046875,
+        403.4591369628906,
+        774.7344360351562
+      ],
+      "text": "Die Zufahrten erfolgen direkt über die öffentlichen Straßen."
+    },
+    {
+      "type": "paragraph",
+      "page": 12,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  12/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        113.54000091552734,
+        99.58876037597656,
+        555.7348022460938,
+        157.49839782714844
+      ],
+      "text": "Sämtliche Zugänge und Zufahrten sind während der gesamten Bauzeit in einem sauberen  und verkehrssicheren Zustand zu halten.  Erforderliche Zufahrten zu Lagerplätzen und Baustelleneinrichtungsflächen sind einzurech- nen."
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94400024414062,
+        172.4911651611328,
+        486.94287109375,
+        202.61839294433594
+      ],
+      "text": "2.4  Anschlussmöglichkeiten an Ver- und Entsorgungsleitungen"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        113.54000091552734,
+        202.9087677001953,
+        556.0090942382812,
+        245.5784149169922
+      ],
+      "text": "Medienanschlüsse jeder Art werden vom AG nicht bereitgestellt. Die Aufwendungen für  Beschaffung, Vorhaltung, Betrieb und Abbau bzw. Beseitigung hat der Bieter einzurechnen."
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        131.5399932861328,
+        248.38880920410156,
+        531.049072265625,
+        260.6983947753906
+      ],
+      "text": "-  Kanal Frisch- und Abwasser mit DN 500 (Freigabe erst nach Kanalbefahrung)"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        131.5399932861328,
+        275.65875244140625,
+        380.77911376953125,
+        287.9683532714844
+      ],
+      "text": "-  EAM und Telekom: in Dükerleitung 2x DN 125"
+    },
+    {
+      "type": "other",
+      "page": 13,
+      "bbox": [
+        131.5399932861328,
+        302.77874755859375,
+        229.6791229248047,
+        315.0883483886719
+      ],
+      "text": "-  Strom (Laterne)"
+    },
+    {
+      "type": "other",
+      "page": 13,
+      "bbox": [
+        70.94400024414062,
+        357.3211975097656,
+        276.0528869628906,
+        387.4483642578125
+      ],
+      "text": "2.5  Lager – und Arbeitsplätze"
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        113.54000091552734,
+        387.73876953125,
+        556.013916015625,
+        536.7484130859375
+      ],
+      "text": "Lagerplätze sowie Plätze für die Baustelleneinrichtung werden durch den AG im Bereich  vor dem Feuerwehrhaus und die angrenzenden Grünflächen in beschränkten Maßen zur  Verfügung gestellt.  Die vorhandene Fläche ist nach Räumung wieder in den Ursprungszustand zu versetzen.  Die Kosten hierfür sind in die Positionen der Baustellenreinrichtung und -räumung mit ein- zukalkulieren und werden nicht gesondert vergütet.  Im direkten Baufeld ist keine Lagerfläche vorhanden.     Vor dem Einrichten der BE-Fläche ist mit Pfarrgemeinde und der Flecken Nörten-Harden- berg die Flächennutzung abzustimmen."
+    },
+    {
+      "type": "image",
+      "page": 13,
+      "bbox": [
+        251.10000610351562,
+        539.1950073242188,
+        415.1500244140625,
+        744.2650146484375
+      ],
+      "text": ""
+    },
+    {
+      "type": "image",
+      "page": 13,
+      "bbox": [
+        251.10000610351562,
+        539.1950073242188,
+        415.1500244140625,
+        744.2650146484375
+      ],
+      "text": ""
+    },
+    {
+      "type": "image_caption",
+      "page": 13,
+      "bbox": [
+        133.4600067138672,
+        623.0787353515625,
+        234.95912170410156,
+        635.3883666992188
+      ],
+      "text": "Mögliche BE-Fläche"
+    },
+    {
+      "type": "image",
+      "page": 13,
+      "bbox": [
+        231.9600067138672,
+        637.7969970703125,
+        292.4420166015625,
+        665.2799682617188
+      ],
+      "text": ""
+    },
+    {
+      "type": "image",
+      "page": 13,
+      "bbox": [
+        231.9600067138672,
+        637.7969970703125,
+        292.4420166015625,
+        665.2799682617188
+      ],
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        113.54000091552734,
+        734.8247680664062,
+        431.0591125488281,
+        759.9744262695312
+      ],
+      "text": "Die BE- und Lagerflächen sind mit einem Bauzaun einzufassen."
+    },
+    {
+      "type": "paragraph",
+      "page": 13,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  13/25"
+    },
+    {
+      "type": "image",
+      "page": 14,
+      "bbox": [
+        193.52000427246094,
+        99.24996948242188,
+        472.72003173828125,
+        415.15997314453125
+      ],
+      "text": ""
+    },
+    {
+      "type": "image",
+      "page": 14,
+      "bbox": [
+        193.52000427246094,
+        99.24996948242188,
+        472.72003173828125,
+        415.15997314453125
+      ],
+      "text": ""
+    },
+    {
+      "type": "image_caption",
+      "page": 14,
+      "bbox": [
+        307.3699951171875,
+        114.34877014160156,
+        388.6991271972656,
+        126.65836334228516
+      ],
+      "text": "ENB Beverbach"
+    },
+    {
+      "type": "image",
+      "page": 14,
+      "bbox": [
+        218.39999389648438,
+        120.48396301269531,
+        299.7619934082031,
+        141.9599609375
+      ],
+      "text": ""
+    },
+    {
+      "type": "image",
+      "page": 14,
+      "bbox": [
+        218.39999389648438,
+        120.48396301269531,
+        299.7619934082031,
+        141.9599609375
+      ],
+      "text": ""
+    },
+    {
+      "type": "image_caption",
+      "page": 14,
+      "bbox": [
+        266.69000244140625,
+        387.2587585449219,
+        368.1791076660156,
+        399.568359375
+      ],
+      "text": "Mögliche BE-Fläche"
+    },
+    {
+      "type": "image",
+      "page": 14,
+      "bbox": [
+        387.7200012207031,
+        387.84197998046875,
+        429.72100830078125,
+        406.3199768066406
+      ],
+      "text": ""
+    },
+    {
+      "type": "image",
+      "page": 14,
+      "bbox": [
+        387.7200012207031,
+        387.84197998046875,
+        429.72100830078125,
+        406.3199768066406
+      ],
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.54000091552734,
+        405.8587646484375,
+        555.9884643554688,
+        582.8284301757812
+      ],
+      "text": "Im Überschwemmungsgebiet des Beverbaches ist das zwischenlagern von wassergefähr- denden Stoffen nicht zulässig. Die Lagerung von Gegenständen, die den Wasserabfluss  behindern oder fortgeschwemmt werden können, ist im Überschwemmungsgebiet des Be- verbaches untersagt.     Weitere Lagerplätze sind bei Bedarf eigenständig durch den AN anzumieten, die Kosten  dafür sind durch den Bieter einzukalkulieren und werden nicht gesondert vergütet. Alle Auf- wendungen, die dem Bieter für Beschaffung, Vor- und Unterhaltung, den Betrieb und den  Abbau bzw. der Beseitigung entstehen, hat der Bieter einzurechnen. Der Bieter hat ent- sprechende Vereinbarungen und Absprachen mit den Eigentümern der Flächen bzw. dem  AG zu treffen."
+    },
+    {
+      "type": "table",
+      "page": 14,
+      "bbox": [
+        70.94400024414062,
+        597.8211669921875,
+        383.29913330078125,
+        640.5484008789062
+      ],
+      "text": "2.6  Gewässer      Im Bauwerksbereich quert der Beverbach das Baufeld."
+    },
+    {
+      "type": "heading",
+      "page": 14,
+      "bbox": [
+        70.94400024414062,
+        653.0511474609375,
+        258.0528869628906,
+        683.1784057617188
+      ],
+      "text": "2.7  Baugrundverhältnisse"
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        113.54000091552734,
+        683.46875,
+        555.7938842773438,
+        756.494384765625
+      ],
+      "text": "Es liegt die Baugrunderkundung und Gründungsberatung von Ingenieurbüro R.-W. Wode,  Beratende Ingenieure und Geologen, vom 23.06.2021 zum Ersatzneubau der Brücke über  den Beverbach vor.   Die Vorgaben des Baugrundgutachtens sind einzuhalten."
+    },
+    {
+      "type": "paragraph",
+      "page": 14,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  14/25"
+    },
+    {
+      "type": "other",
+      "page": 15,
+      "bbox": [
+        70.94400024414062,
+        99.77120208740234,
+        380.8328857421875,
+        129.8983612060547
+      ],
+      "text": "2.8  Seitenentnahmen und Ablagerungsstellen"
+    },
+    {
+      "type": "other",
+      "page": 15,
+      "bbox": [
+        113.54000091552734,
+        130.1887969970703,
+        142.88912963867188,
+        142.49839782714844
+      ],
+      "text": "keine"
+    },
+    {
+      "type": "other",
+      "page": 15,
+      "bbox": [
+        70.94400024414062,
+        154.97120666503906,
+        297.77288818359375,
+        185.09837341308594
+      ],
+      "text": "2.9  Schutzbereiche und -objekte"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        113.54000091552734,
+        185.38880920410156,
+        556.0093383789062,
+        569.62841796875
+      ],
+      "text": "Schutz gegen Baulärm  Die Baustellen angrenzend an Wohngebiete.  Besonders hingewiesen wird auf die Allgemeinen Verwaltungsvorschriften gegen Baulärm  „Geräuschimmissionen“ vom 19.08.1970, nach der in Wohngebieten die Immissionsrichtli- nien von 55 dB(A) am Tag und 40 dB(A) in der Nacht (von 20.00 bis 07.00 Uhr) eingehalten  werden müssen.  Der AN hat seine Technologie auf die Einhaltung der gesetzlichen Grenzwerte hinsichtlich  Geräuschimmissionen auszurichten.  Lärmschutzmaßnahmen gelten als Nebenleistungen und sind mit den Preisen des Ange- botes abgegolten.    Umweltschutz  Der AN hat sicherzustellen, dass bei sämtlichen Arbeiten schädliche Einwirkungen auf die  Umwelt verhindert werden. Besondere Vergütungsansprüche sind aus dieser Forderung  nicht abzuleiten.   Generell ist lärm-, staub- und erschütterungsarm zu arbeiten.     Baumschutz  Im Bereich des Brückenbauwerks befindet sich ein Kastanienbaum (Naturdenkmal), der  während der gesamten Bauzeit zu schützen ist.   Vor Baubeginn sind mit der zuständigen Baumpflege und dem AG die notwendigen Schutz- maßnahmen abzustimmen. Ein zurückschneiden des Baumes ist möglich, muss jedoch  vorher abgestimmt und besprochen werden.   Es ist untersagt eigenverantwortlich zu Handeln bezüglich des Baumschutzes und dem  möglichen zurückschneiden ohne vorherige Absprache."
+    },
+    {
+      "type": "other",
+      "page": 15,
+      "bbox": [
+        70.94400024414062,
+        584.7411499023438,
+        265.25286865234375,
+        614.868408203125
+      ],
+      "text": "2.10  Anlagen im Baubereich"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        113.54000091552734,
+        615.1587524414062,
+        552.9700317382812,
+        657.8583984375
+      ],
+      "text": "Im Baufeld befinden sich nach jetzigem Kenntnisstand folgende Leitungen:  Gemäß Auskunft der EAM, Strom und der Flecken Nörten-Hardenberg, sind im Bauwerks- bereich folgende Leitungen vorhanden:"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        131.5399932861328,
+        660.6687622070312,
+        528.049072265625,
+        672.9783935546875
+      ],
+      "text": "-  Kanal Frisch- und Abwasser mit DN 500(Freigabe erst nach Kanalbefahrung)"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        131.5399932861328,
+        687.9087524414062,
+        538.8029174804688,
+        715.3384399414062
+      ],
+      "text": "-  EAM und Telekom: in Dükerrohr 2x DN 125 (max. 4,50 m unter Bestand Pfarr- weg)"
+    },
+    {
+      "type": "other",
+      "page": 15,
+      "bbox": [
+        131.5399932861328,
+        730.268798828125,
+        229.6791229248047,
+        742.5784301757812
+      ],
+      "text": "-  Strom (Laterne)"
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        113.54000091552734,
+        757.384765625,
+        541.7459106445312,
+        784.9343872070312
+      ],
+      "text": "Die vorhandenen Stromleitungen sind im Zuge der Baumaßnahme aus dem Bereich des  Brückenbauwerks zu verlegen."
+    },
+    {
+      "type": "paragraph",
+      "page": 15,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  15/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        113.54000091552734,
+        99.58876037597656,
+        541.762939453125,
+        127.1384048461914
+      ],
+      "text": "Kanal und Wasser liegen im Zuständigkeitsbereich der Flecken. Bezüglich der übrigen  Leitungen ist mit dem jeweils zuständigen Versorger Kontakt aufzunehmen."
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        113.54000091552734,
+        141.9488067626953,
+        556.0148315429688,
+        214.97837829589844
+      ],
+      "text": "Der AN hat vor Beginn der Bauarbeiten eigenverantwortlich die Leitungen bei den Versor- gern abzufragen und sich über die Art und Lage der vorhandenen Leitungen zu informieren.  Die Abfrage wird nicht gesondert vergütet. Alle Versorger und Betreiber der Leitungen sind  durch den AN spätestens zwei Wochen vor Beginn der Arbeiten über die Baumaßnahme  zu informieren."
+    },
+    {
+      "type": "other",
+      "page": 16,
+      "bbox": [
+        70.94400024414062,
+        230.09120178222656,
+        380.2328796386719,
+        260.0983581542969
+      ],
+      "text": "2.11  Öffentlicher Verkehr im Baustellenbereich"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94400024414062,
+        260.3887939453125,
+        556.013427734375,
+        323.3683776855469
+      ],
+      "text": "Während der Arbeiten ist der öffentliche Verkehr aufrecht zu erhalten.  Das Brückenbauwerk wird für den Pkw-Verkehr voll gesperrt, der Anliegerverkehr ist zu  Fuß über das neu errichtete Teilbauwerk beziehungsweise über das teilabgebrochene Be- standsbauwerk zu führen."
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        70.94400024414062,
+        335.961181640625,
+        192.26287841796875,
+        367.1299743652344
+      ],
+      "text": "2.12  Kampfmittel"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        78.02400207519531,
+        367.4587707519531,
+        555.9019165039062,
+        486.1083679199219
+      ],
+      "text": "Hinweise auf Kampfmittel liegen nicht vor. Die Bescheinigung der Regionaldirektion Ha- meln-Hannover Kampfmittelbeseitigungdienst vom 28.06.2023 wird dem AN bei Vertrags- abschluss zur Kenntnisnahme übergeben.     Vom AG kann keine Gewähr über das Nichtvorhandensein von Kampfmitteln übernommen  werden. Falls im Baubereich Kampfmittel gefunden werden, sind die Bauarbeiten sofort  einzustellen, die Fundstelle abzusperren und der AG sowie die örtliche Ordnungsbehörde  sowie die zuständige Polizeidienststelle zu benachrichtigen. Eine entsprechende Belehrung  der Beschäftigten auf der Baustelle hat zu erfolgen."
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        70.94400024414062,
+        500.9637756347656,
+        285.4731140136719,
+        516.618408203125
+      ],
+      "text": "3.  Angaben zur Ausführung"
+    },
+    {
+      "type": "heading",
+      "page": 16,
+      "bbox": [
+        70.94400024414062,
+        529.18115234375,
+        346.87286376953125,
+        559.3084106445312
+      ],
+      "text": "3.1  Verkehrsführung, Verkehrssicherung"
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        113.54000091552734,
+        559.5987548828125,
+        555.7362670898438,
+        769.3344116210938
+      ],
+      "text": "Grundsätzlich ist auf sämtlichen öffentlichen Wegen der Verkehr aufrecht zu erhalten. Er- forderliche Verkehrsführungen werden durch den AG vorgegeben und sind nach Genehmi- gung der zuständigen Verkehrsbehörde zulässig.  Die Genehmigung der Verkehrsführung ist rechtzeitig durch den AN bei den zuständigen  Behörden zu beantragen.  Die Verkehrszeichenplanung, sowie die Einrichtung und der Betrieb der durch den AG vor- gegebenen Umleitungsstrecke erfolgt durch den AN.     Für die Sicherung des Verkehrs auf öffentlichen Straßen und Wegen sind die Bestimmun- gen der Straßengesetze (FstrG und NStrG) und der StVO maßgebend. Die Richtlinien für  die Sicherung von Arbeitsstellen an Straßen (RSA), Ausgabe 1995, und die Ergänzungen  sind zu beachten.  Das Halten von Baufahrzeugen in unter Verkehr befindlichen Strecken ist grundsätzlich un- tersagt."
+    },
+    {
+      "type": "paragraph",
+      "page": 16,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  16/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94400024414062,
+        99.58876037597656,
+        556.0150146484375,
+        602.7484130859375
+      ],
+      "text": "Das Lagern von Geräten, Material und dergleichen in den Seitenräumen neben den unter  Verkehr liegenden Strecken ist nicht gestattet.  Sämtliche Arbeitskräfte müssen außerhalb geschlossener Baustellen entsprechend § 35  StVO durch Warnkleidung erkennbar sein.  Die Baustelle ist nach allen Seiten so zu sichern, dass Gegenstände, gleich welcher Art,  nicht in den lichten Raum (Verkehrsraum) hineingelangen können.  Der AN hat alle erforderlichen Zeichen, Tafeln und Masten für die Verkehrsführung und - sicherung zu stellen, zu montieren und für die Dauer der Bauzeit vorzuhalten. Die erforder- lichen Beleuchtungseinrichtungen (Überleitung, Balkenlängsabsperrung), sowie deren Be- treibung mit elektr. Energie, sind in die entsprechenden OZ einzukalkulieren.  Der AN haftet für die jederzeitige Funktionsfähigkeit der Anlage; Ersatzeinrichtungen sind  im erforderlichen Umfang bereitzuhalten. Die Schilder und Tafeln sind zu reinigen, durch  Unfälle beschädigte Teile sind unverzüglich zu ersetzen.    Verkehrszeichen, Schildertafeln, Baken    Es sind nur einwandfreie, voll reflektierende, den Gütebedingungen entsprechende Schil- der, Folie Typ 3 DIN 6171, zugelassen. Ferner kommen nur Baken entsprechend den Lie- ferbedingungen TL Baken 87 zur Aufstellung.  Die gesamte Beschilderung einschl. aller Aufstellvorrichtungen sollen wind- und knicksicher  verankert und verbunden sein. Es ist mit einer Windlast von insgesamt W = 1 kN/m² zu  rechnen.  Tafeln und Zeichen sind senkrecht zur Fahrtrichtung aufzustellen, damit die reflektierende  Wirkung zur Geltung kommt. Aus diesem Grund sind auch Schmutzablagerungen regelmä- ßig zu beseitigen.  Der Ersatz zerstörter oder abhanden gekommener Materialien ist mit den Einheitspreisen  abgegolten.      Vorschriftzeichen  Durchmesser 750 mm        2 mm dick, Aluminium    Gefahrzeichen    Seitenlänge 1260 mm        Aluminium 2 mm dick    Absperrbaken Höhe 1000 mm, Breite 250 mm gem. TL Baken 87"
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94400024414062,
+        603.0387573242188,
+        555.8025512695312,
+        691.3384399414062
+      ],
+      "text": "Aufstellvorrichtungen    Auf befestigtem Untergrund (vorhandene Fahrbahn, Bauwerke o.a.) sind entsprechend,  schwere und geeignete Aufstellvorrichtungen zu verwenden, die ohne Verankerung mit  dem Untergrund die Standsicherheit der Verkehrszeichen gewährleisten."
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        113.54000091552734,
+        691.6287841796875,
+        555.9389038085938,
+        767.1743774414062
+      ],
+      "text": "Beleuchtung    Elektrische Anlagen sind nach den VDE-Vorschriften zu installieren und während der Dauer  der Bauzeit zu warten und laufend auf ihre Funktionsfähigkeit zu überwachen. Dies gilt be- sonders bei Dunkelheit."
+    },
+    {
+      "type": "paragraph",
+      "page": 17,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  17/25"
+    },
+    {
+      "type": "other",
+      "page": 18,
+      "bbox": [
+        70.94400024414062,
+        99.77120208740234,
+        325.13287353515625,
+        129.8983612060547
+      ],
+      "text": "3.2  Freihalten von Durchflussprofilen"
+    },
+    {
+      "type": "other",
+      "page": 18,
+      "bbox": [
+        113.54000091552734,
+        130.1887969970703,
+        242.5191192626953,
+        142.49839782714844
+      ],
+      "text": "Siehe 3.4 Wasserhaltung."
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.94400024414062,
+        154.97120666503906,
+        555.8908081054688,
+        261.5
+      ],
+      "text": "3.3  Bauablauf    Der Abbruch als auch die Errichtung des neuen Bauwerks erfolgt in zwei Bauabschnitten.   Die wesentlichen übergeordneten Bauphasen und Bauabschnitte werden nachfolgend kurz  dargestellt.   Die gesamte Bauzeit zur Herstellung des Ersatzneubaus beträgt etwa 6 Monate, witte- rungsbedingt kann es auch länger dauern.     1.   Bauabschnitt:"
+    },
+    {
+      "type": "other",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        265.9399719238281,
+        171.5950469970703,
+        276.97998046875
+      ],
+      "text": "Phase 1:"
+    },
+    {
+      "type": "table",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        279.2347412109375,
+        376.3650207519531,
+        356.57000732421875
+      ],
+      "text": "•   Baugrube herstellen,   •   Mikropfähle in Achse A und B herstellen,  •   Trennschnitt in Fahrbahnplatte herstellen,  •   Fußgängerquerung über Baugrube herstellen.  Phase 2:"
+    },
+    {
+      "type": "table_caption",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        358.7947998046875,
+        318.3850402832031,
+        388.0099792480469
+      ],
+      "text": "•   Teilabbruch westliches Bauwerk   Phase 3:"
+    },
+    {
+      "type": "table",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        390.23480224609375,
+        338.4450378417969,
+        467.57000732421875
+      ],
+      "text": "•   Herstellen Sauberkeitsschicht,   •   Einbau Gabionenkörbe,   •   Befüllen der Gabionen und   •   Hinterfüllen mit erdfeuchtem Beton.   Phase 4:"
+    },
+    {
+      "type": "table_caption",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        469.81475830078125,
+        392.6850280761719,
+        499.1499938964844
+      ],
+      "text": "•   Herstellen Pfahlkopfbalken 1. BA (westliche Seite)  Phase 5:"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        501.2547607421875,
+        434.32501220703125,
+        530.5899658203125
+      ],
+      "text": "•   Einbau Überbaufertigteil und Verguß mit Widerlagerbalken  Phase 6:"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        113.54000091552734,
+        532.6947631835938,
+        506.83502197265625,
+        578.1099853515625
+      ],
+      "text": "•   Herstellen der Kappe (west) und   •   Montage Geländer auf der Kappe und FT (Absturzsicherung im Bauzustand)  2.   Bauabschnitt:"
+    },
+    {
+      "type": "other",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        582.429931640625,
+        173.9950408935547,
+        593.469970703125
+      ],
+      "text": "Phase 1:"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        595.6947631835938,
+        300.14501953125,
+        624.9099731445312
+      ],
+      "text": "•   Abbruch restliches Bauwerk.   Phase 2:"
+    },
+    {
+      "type": "table",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        627.134765625,
+        336.1650390625,
+        704.5
+      ],
+      "text": "•   Herstellen Sauberkeitsschicht,   •   Einbau Gabionenkörbe,   •   Befüllen der Gabionen und   •   Hinterfüllen mit erdfeuchtem Beton.   Phase 3:"
+    },
+    {
+      "type": "table",
+      "page": 18,
+      "bbox": [
+        131.5399932861328,
+        706.7247924804688,
+        391.2450256347656,
+        768.0960083007812
+      ],
+      "text": "•   Herstellen Pfahlkopfbalken 2. BA,   •   Einbau Überbaufertigteil 2,   •   Verguß mit Widerlagerbalken und FT-Koppelfuge   Phase 5:"
+    },
+    {
+      "type": "table_caption",
+      "page": 18,
+      "bbox": [
+        149.5399932861328,
+        770.2007446289062,
+        274.9450378417969,
+        784.0559692382812
+      ],
+      "text": "•   Herstellung Kappe Ost,"
+    },
+    {
+      "type": "paragraph",
+      "page": 18,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  18/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        149.5399932861328,
+        99.20478820800781,
+        427.0050354003906,
+        145.09996032714844
+      ],
+      "text": "•   Versatz Geländer vom Überbaufertigteil 1 auf Kappe Ost,   •   Herstellung der Abdichtung und Fahrbahnbelag,   •   Restarbeiten Anschlussbereiche."
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        113.54000091552734,
+        157.6687774658203,
+        556.0029296875,
+        283.8883972167969
+      ],
+      "text": "Als vorbereitende Maßnahmen ist die Verkehrssicherung zu stellen.    Die Herstellung der Mikropfähle hat zwingend vor dem Abbruch des Bestandsbauwerks zu  erfolgen.    Vor Beginn der Maßnahme ist ein Terminplan zur Durchsicht dem AG einzureichen. Der  Terminplan wird nicht Vertragsbestandteil.  Die Baustelle sollte vor Abgabe des Angebotes eingehend besichtigt werden. Der AN hat  sich über den Zustand und die Baustellenverhältnisse zu unterrichten. Nachforderungen  wegen Unkenntnis der Örtlichkeit werden nicht anerkannt."
+    },
+    {
+      "type": "heading",
+      "page": 19,
+      "bbox": [
+        70.94400024414062,
+        296.3611755371094,
+        210.41287231445312,
+        326.4883728027344
+      ],
+      "text": "3.4  Wasserhaltung"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        113.54000091552734,
+        326.7787780761719,
+        552.919189453125,
+        351.8083801269531
+      ],
+      "text": "Im Zuge der Geländearbeiten am 01.06.2021 wurde Wasser in folgender Tiefe eingemes- sen:"
+    },
+    {
+      "type": "image",
+      "page": 19,
+      "bbox": [
+        113.44999694824219,
+        351.719970703125,
+        394.260009765625,
+        402.969970703125
+      ],
+      "text": ""
+    },
+    {
+      "type": "image",
+      "page": 19,
+      "bbox": [
+        113.44999694824219,
+        351.719970703125,
+        394.260009765625,
+        402.969970703125
+      ],
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.94400024414062,
+        393.0187683105469,
+        555.9933471679688,
+        529.5484008789062
+      ],
+      "text": "Die OK Wasseroberfläche liegt bei 187,09 m NHN.   Es ist mit wechselnden Wasserständen zu rechnen.    Als Bemessungswasserstand sollte anhand der vorliegenden Ergebnisse, vorbehaltlich ei- ner langfristigen Beobachtungsreihe, für das Bauvorhaben eine HGW = 187,25 m NHN  angesetzt werden.    Die Baugruben sind während der gesamten Baumaßnahme von eindringendem Wasser  freizuhalten."
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.94400024414062,
+        529.8387451171875,
+        552.9846801757812,
+        567.4684448242188
+      ],
+      "text": "Der Beverbach ist während der Herstellung der Widerlagervorsatzschalen, temporär in Ab- sprache und nach den Auflagen des AG umzuleiten."
+    },
+    {
+      "type": "heading",
+      "page": 19,
+      "bbox": [
+        70.94400024414062,
+        579.941162109375,
+        187.22286987304688,
+        610.0684204101562
+      ],
+      "text": "3.5  Baubehelfe"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        113.54000091552734,
+        610.3587646484375,
+        555.8165893554688,
+        660.7384033203125
+      ],
+      "text": "Sofern nicht gesondert als Position im LV aufgeführt, werden Trag-, Arbeits- und Schutzge- rüste sowie Montageeinrichtungen, Baugruben und Wandsicherungen für Bauarbeiten,  Schutzgeländer und sonstige Baubehelfe sowie die Herstellung von Arbeitsebenen nicht  gesondert vergütet. Das Herstellen sämtlicher Baubehelfe ist Sache des AN."
+    },
+    {
+      "type": "heading",
+      "page": 19,
+      "bbox": [
+        70.94400024414062,
+        673.211181640625,
+        211.85287475585938,
+        704.5
+      ],
+      "text": "3.6  Stoffe, Bauteile"
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        113.54000091552734,
+        704.8287963867188,
+        555.8030395507812,
+        780.3743896484375
+      ],
+      "text": "Zugelassen sind nur Stoffe und Materialien, die einer Güteüberwachung unterliegen. Bei  Anforderung durch den AG ist der entsprechende Gütenachweis vorzulegen. Nach Auf- tragserteilung sind durch den AG für sämtliche Baustoffe rechtzeitig und unaufgefordert  Protokolle über Eignungsprüfungen vorzulegen. Nach der Zustimmung des AG werden  diese zum Vertragsbestandteil. Als Nachweis genügt die Aufnahme in die Liste der geprüf- ten Stoffe (BAST)."
+    },
+    {
+      "type": "paragraph",
+      "page": 19,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  19/25"
+    },
+    {
+      "type": "other",
+      "page": 20,
+      "bbox": [
+        70.94400024414062,
+        124.18879699707031,
+        257.27911376953125,
+        164.8184051513672
+      ],
+      "text": "3.6.1  Betonersatzsysteme (PCC)    -entfällt -"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        70.94400024414062,
+        177.22877502441406,
+        285.9591369628906,
+        205.13841247558594
+      ],
+      "text": "3.6.2  Oberflächenschutzsysteme (OS)"
+    },
+    {
+      "type": "other",
+      "page": 20,
+      "bbox": [
+        113.66000366210938,
+        205.5487823486328,
+        162.56912231445312,
+        217.85838317871094
+      ],
+      "text": "- entfällt -"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        70.94400024414062,
+        230.1487579345703,
+        218.03912353515625,
+        258.0583801269531
+      ],
+      "text": "3.6.3  Rissfüllstoffe (EP-I)"
+    },
+    {
+      "type": "other",
+      "page": 20,
+      "bbox": [
+        113.66000366210938,
+        258.46875,
+        161.9691162109375,
+        283.4083557128906
+      ],
+      "text": "- enfällt –"
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        70.94400024414062,
+        295.81878662109375,
+        176.60911560058594,
+        323.7283630371094
+      ],
+      "text": "3.6.4 Fugenmörtel"
+    },
+    {
+      "type": "other",
+      "page": 20,
+      "bbox": [
+        70.94400024414062,
+        324.0187683105469,
+        161.9691162109375,
+        349.0483703613281
+      ],
+      "text": "- enfällt –"
+    },
+    {
+      "type": "other",
+      "page": 20,
+      "bbox": [
+        70.94400024414062,
+        361.3387756347656,
+        405.7391357421875,
+        389.3683776855469
+      ],
+      "text": "3.6.5  Beschichtungsstoffe und –systeme (Korrosionsschutz)"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        113.54000091552734,
+        389.6587829589844,
+        556.0090942382812,
+        477.828369140625
+      ],
+      "text": "Es dürfen nur Beschichtungssysteme verwendet werden, die in der von der Bundesanstalt  für Straßenwesen geführten Zusammenstellung der zertifizierten Beschichtungsstoffe ent- halten sind. Es sind grundsätzlich nur Beschichtungssysteme nach Anhang A der ZTV-ING,  Teil 4 Stahlbau, Stahlverbundbau, Abschnitt 3 Korrosionsschutz von Stahlbauten zu ver- wenden. Innerhalb eines Beschichtungssystems dürfen nur Stoffe eines Herstellers verar- beitet werden. Die verwendeten Beschichtungsstoffe müssen die Anforderungen der  TL/TP-KOR-Stahlbauten erfüllen."
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        70.94400024414062,
+        490.42120361328125,
+        160.46287536621094,
+        520.4284057617188
+      ],
+      "text": "3.7  Abfälle"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        113.54000091552734,
+        520.8387451171875,
+        556.0081787109375,
+        697.5784301757812
+      ],
+      "text": "Zur ordnungsgemäßen und schadlosen Abfallentsorgung sind die Vorgaben des „Gesetzes  zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaf- tung von Abfällen (Kreislaufwirtschaftsgesetz – KrWG, in der aktuell gültigen Fassung)“, die  darauf gestützten Rechtsverordnungen und die hierzu erlassenen Verwaltungsvorschriften  zu beachten.     Des Weiteren gelten übergeordnet die Regelungen der Mantelverordnung, welche Ersatz- baustoffV, BBodSchV und DepV, umfasst. Die einzelnen Zusatzregelungen der jeweiligen  Bundesländer sind dabei zu beachten.    Die Abfälle sind durch den AN zwischenzulagern, zu deklarieren und zu entsorgen. Soweit  nicht als LV-Position aufgeführt, sind die Kosten für die Zwischenlagerung von Baustoffen,  die Untersuchungskosten zur Abfalleinstufung und die Entsorgung in die Einheitspreise ein- zukalkulieren und werden nicht gesondert vergütet."
+    },
+    {
+      "type": "heading",
+      "page": 20,
+      "bbox": [
+        70.94400024414062,
+        710.171142578125,
+        180.7428741455078,
+        740.1784057617188
+      ],
+      "text": "3.8  Winterbau"
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        113.54000091552734,
+        740.5847778320312,
+        549.5701904296875,
+        778.0944213867188
+      ],
+      "text": "Winterbau ist bei dieser Maßnahme nicht ausgeschlossen. Witterungsbedingt kann es zu  Verzögerungen im Bauablauf kommen. Maßnahmen für den Winterbau sind nicht vorge- sehen."
+    },
+    {
+      "type": "paragraph",
+      "page": 20,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  20/25"
+    },
+    {
+      "type": "heading",
+      "page": 21,
+      "bbox": [
+        70.94400024414062,
+        99.77120208740234,
+        247.85287475585938,
+        129.8983612060547
+      ],
+      "text": "3.9  Zustandsfeststellung"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        130.1887969970703,
+        556.0167846679688,
+        243.6583709716797
+      ],
+      "text": "Vor Beginn der Bauarbeiten sind alle baulichen Anlagen, die sich im und am Baufeld und  an den Baufeldgrenzen befinden, bzw. die vom AN als Baustellentransportwege, Zu- und  Abfahrten genutzt werden sollen, durch eine Zustandsfeststellung mit ausführlicher Foto- dokumentation aufzunehmen (VOB, Teil B § 3, Abs. 4).    Zusätzlich sind Beweissicherungen für die genutzten und angrenzenden Privatgrundstücke  mit zugehörigen Anlagen anzufertigen und mit ausführlicher Fotodokumentation aufzuneh- men. Die Beweissicherungen sind dem AG und den Eigentümern vorzulegen."
+    },
+    {
+      "type": "heading",
+      "page": 21,
+      "bbox": [
+        70.94400024414062,
+        256.2511901855469,
+        224.09288024902344,
+        270.7015686035156
+      ],
+      "text": "3.10  Schlussabnahme"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        276.978759765625,
+        552.9761352539062,
+        302.0083923339844
+      ],
+      "text": "Mit dem Abnahmeantrag sind folgende Bescheinigungen vom AN (mit Unterschrift der Bau- überwachung des AG) vorzulegen:"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        308.29876708984375,
+        530.3291015625,
+        320.6083679199219
+      ],
+      "text": "1.  Alle Kontrollprüfungen des AG haben \"bestanden\" (ggf. Hinweis auf vertragli"
+    },
+    {
+      "type": "other",
+      "page": 21,
+      "bbox": [
+        156.02000427246094,
+        327.0187683105469,
+        340.09912109375,
+        339.328369140625
+      ],
+      "text": "che Regelung bei \"nicht bestanden\")."
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        345.6187744140625,
+        516.2890625,
+        357.9283752441406
+      ],
+      "text": "2.  Die Baustelle ist geräumt und in gebrauchsfähigem Zustand rückversetzt."
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        364.2187805175781,
+        555.8116455078125,
+        389.2483825683594
+      ],
+      "text": "3.  Freistellungsbescheinigungen betroffener Anlieger, Versorgungsunternehmen,    Interessenschaffen etc. liegen vor."
+    },
+    {
+      "type": "other",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        395.53875732421875,
+        362.77911376953125,
+        407.8483581542969
+      ],
+      "text": "4.  Abschließende Beweissicherung liegt vor."
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        70.94400024414062,
+        414.2587585449219,
+        500.2091369628906,
+        452.9683837890625
+      ],
+      "text": "Mit dem Abnahmeantrag sind die Bestandsunterlagen zur Prüfung einzureichen.  3.11  Bauleitungen mit Fremdüberwachung"
+    },
+    {
+      "type": "other",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        453.2587585449219,
+        287.5191345214844,
+        465.568359375
+      ],
+      "text": "(z. B. Beton Ü2, ZTV-ING)"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        471.998779296875,
+        556.0038452148438,
+        496.90838623046875
+      ],
+      "text": "-  Der Überwachungsvertrag ist dem AG vor Beginn der Bauarbeiten zu    übergeben."
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        503.31878662109375,
+        555.7673950195312,
+        540.8284301757812
+      ],
+      "text": "-  Vor Beginn der Bauleistung ist die von der Fremdüberwachung bestätigte An-   meldung der Maßnahme dem AG original zur Einsichtnahme und Ablichtung    vorzulegen."
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        547.23876953125,
+        555.7674560546875,
+        584.868408203125
+      ],
+      "text": "-  Die Termine der Baustellenprüfungen durch die Fremdüberwachung sind dem    AG unverzüglich mitzuteilen, um diesem die Möglichkeit zur Teilnahme zu ge-   ben."
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        591.1587524414062,
+        553.016357421875,
+        616.0684204101562
+      ],
+      "text": "-  Die vollständigen Überwachungsberichte der Fremdüberwachung sind dem Ab-   nahmeantrag beizufügen."
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        622.478759765625,
+        553.016357421875,
+        647.3883666992188
+      ],
+      "text": "-  Der Zeitpunkt für die auf der Baustelle durchzuführenden Eigenüberwachungs-   prüfungen ist der Bauüberwachung zeitgerecht zur Kenntnis zu geben."
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        70.94400024414062,
+        653.8287353515625,
+        555.8500366210938,
+        743.1784057617188
+      ],
+      "text": "Sämtliche in diesem Zusammenhang niedergelegten Aufzeichnungen sind dem  AG zweifach als Durchschrift auszuhändigen. Die Bauüberwachung entscheidet,  ob zusätzlich zu Lasten des AG Kontrollprüfungen durchgeführt werden sollen  bzw. ob Prüfkörper als Rückstellproben zu fertigen sind.    3.12  Genehmigungsverfahren"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        113.54000091552734,
+        743.4647827148438,
+        532.6502075195312,
+        768.494384765625
+      ],
+      "text": "Der AG stellt dem AN vor Baubeginn eine genehmigte Ausführungsplanung zur Verfü- gung. Der AN hat seinerseits eine genehmigte Ausführungsplanung inkl. statischem"
+    },
+    {
+      "type": "paragraph",
+      "page": 21,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  21/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.94400024414062,
+        99.58876037597656,
+        544.0780029296875,
+        162.5383758544922
+      ],
+      "text": "Nachweis für die Geländerverankerung sowie die Werkstattplanung des Geländers dem  AG in geprüfter Form vorzulegen.      Technische Änderungen"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        113.54000091552734,
+        162.8288116455078,
+        555.8356323242188,
+        187.85838317871094
+      ],
+      "text": "Für technische Änderungen, die im Verlauf der technischen Bearbeitung und vor Übergabe  der Ausführungsunterlagen erforderlich werden, ist die Genehmigung des AG einzuholen."
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        113.54000091552734,
+        194.1487579345703,
+        552.9872436523438,
+        219.0583953857422
+      ],
+      "text": "Dem AG ist eine sachliche Begründung für die Änderungen und deren finanziellen und bau- vertraglichen Auswirkungen vorzulegen."
+    },
+    {
+      "type": "other",
+      "page": 22,
+      "bbox": [
+        70.94400024414062,
+        225.46876525878906,
+        204.11912536621094,
+        250.37840270996094
+      ],
+      "text": "Prüfbemerkungen"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.94400024414062,
+        256.78875732421875,
+        308.1860046386719,
+        308.1283874511719
+      ],
+      "text": "Prüfeintragungen sind zu befolgen.    3.13  Weitere Hinweise zur Ausführung"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        113.54000091552734,
+        314.53875732421875,
+        555.7803955078125,
+        352.1683654785156
+      ],
+      "text": "Für Boden- und Baustofftransporte größeren Umfangs sind die Straßen des überörtlichen  Verkehrs zu benutzen. Zur eventuellen Benutzung der übrigen Wege und Straßen bedarf  es der Genehmigung des jeweiligen Unterhaltspflichtigen und Eigentümers."
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        110.9000015258789,
+        358.4587707519531,
+        555.9774169921875,
+        370.76837158203125
+      ],
+      "text": "1. Die Genehmigung der Benutzung solcher Wege und Flächen wird vom AG vorher vom"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        127.58000183105469,
+        371.05877685546875,
+        555.9283447265625,
+        421.40838623046875
+      ],
+      "text": "jeweils zuständigen Eigentümer eingeholt. Der Zustand der Wege ist, sofern erforderlich  und nicht bereits durch andere AN geschehen, vor und nach Benutzung gemeinsam mit  dem AG, dem Eigentümer und unter Umständen mit einem Sachverständigen festzu- stellen."
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        110.9000015258789,
+        427.6987609863281,
+        555.8106689453125,
+        440.00836181640625
+      ],
+      "text": "2. Der Zustand ist durch Fotoaufnahmen zu belegen. Diese benutzten Wege sind vom AN"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        127.58000183105469,
+        440.29876708984375,
+        420.6191101074219,
+        452.6083679199219
+      ],
+      "text": "während der Bauzeit in gut befahrbarem Zustand zu halten."
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        110.9000015258789,
+        459.03875732421875,
+        555.9341430664062,
+        471.3483581542969
+      ],
+      "text": "3. Für Schäden an Gemeinde-, Wirtschafts- und Privatwegen sowie Fremdgelände und für"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        127.58000183105469,
+        471.6387634277344,
+        555.8218383789062,
+        496.6683654785156
+      ],
+      "text": "sonstige Entschädigungsansprüche, die durch die Bauarbeiten und besonders durch  Material- und Gerätetransporte verursacht werden, hat der AN aufzukommen."
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        127.58000183105469,
+        502.958740234375,
+        555.876953125,
+        540.5884399414062
+      ],
+      "text": "Bei der förmlichen Abnahme der Gesamtleistung sind vom AN Bescheinigungen darüber  vorzulegen, dass von den, für die benutzten Verkehrswege und Bauflächen zuständigen  Eigentümern Entschädigungsansprüche nicht mehr geltend gemacht werden."
+    },
+    {
+      "type": "heading",
+      "page": 22,
+      "bbox": [
+        70.94400024414062,
+        553.0611572265625,
+        182.18287658691406,
+        567.5115966796875
+      ],
+      "text": "3.14  Prüfungen"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        113.54000091552734,
+        586.478759765625,
+        552.985595703125,
+        611.5084228515625
+      ],
+      "text": "Eignungs-, Eigenüberwachungs- und Kontrollprüfungen erfolgen nach Art und Menge ent- sprechend den techn. Richtlinien."
+    },
+    {
+      "type": "heading",
+      "page": 22,
+      "bbox": [
+        70.94400024414062,
+        623.8900146484375,
+        230.906005859375,
+        652.9083862304688
+      ],
+      "text": "3.14.1 Eignungsprüfungen"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        113.54000091552734,
+        653.228759765625,
+        555.703125,
+        678.2584228515625
+      ],
+      "text": "Alle gem. ZTV erforderlichen Eignungsprüfungen sind rechtzeitig vor der Bauausführung  dem AG vorzulegen. Hierfür erfolgt keine gesonderte Vergütung."
+    },
+    {
+      "type": "heading",
+      "page": 22,
+      "bbox": [
+        70.94400024414062,
+        690.6400146484375,
+        293.5459899902344,
+        719.6583862304688
+      ],
+      "text": "3.14.2 Eigenüberwachungsprüfungen"
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        113.54000091552734,
+        720.0687866210938,
+        555.8689575195312,
+        757.6943969726562
+      ],
+      "text": "Alle gem. ZTV, DIN und Bauvertrag geforderten Eigenüberwachungsprüfungen hat der AN  durchzuführen und die Ergebnisse dem AG sofort zu übergeben. Hierfür erfolgt keine ge- sonderte Vergütung."
+    },
+    {
+      "type": "paragraph",
+      "page": 22,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  22/25"
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        70.94400024414062,
+        99.67997741699219,
+        222.2659912109375,
+        128.6984100341797
+      ],
+      "text": "3.14.3 Kontrollprüfungen"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        113.54000091552734,
+        128.98878479003906,
+        555.8338012695312,
+        217.25840759277344
+      ],
+      "text": "Kontrollprüfungen sind durch den AG sind zunächst nicht vorgesehen. Werden denn Kon- trollprüfungen angeordnet werden diese vom AG vergütet. Die Bereitstellung der Proben  für Ziff. 3.14.2 und 3.14.3 wird nicht gesondert vergütet.  Kosten nicht bestandener Kontrollprüfungen aller Stoffe und Bauteile werden dem AN von  Abschlagsrechnungen bzw. der Schlussrechnung abgezogen."
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        70.94400024414062,
+        229.63999938964844,
+        342.2860107421875,
+        258.6583557128906
+      ],
+      "text": "3.15  Prüfung zur Vorbereitung der Abnahme"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        113.54000091552734,
+        259.06878662109375,
+        556.0009765625,
+        334.64837646484375
+      ],
+      "text": "Diese Prüfung entspricht einer Hauptprüfung nach DIN 1076. Als Ergänzung zu ZTV – ING  Teil 1 Abschnitt 1 (4.1(2)) gilt folgender Text:  Um zur Vorbereitung der Bauwerksabnahme dem AG die handnahe Inaugenscheinnahme  sämtlicher Bauteile zu ermöglichen. Die Kosten sind als Nebenleistung in die Angebots- preise für die Bauleistung einzurechnen."
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        70.94400024414062,
+        347.0299987792969,
+        228.98599243164062,
+        360.40997314453125
+      ],
+      "text": "3.16  Baubesprechungen"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        116.30000305175781,
+        366.73876953125,
+        555.90185546875,
+        416.9683837890625
+      ],
+      "text": "Baubesprechungen finden wöchentlich bzw. nach besonderen Erfordernissen statt. Die  Teilnahme an den Baubesprechungen ist für den leitenden Bauleiter verpflichtend. Die  Kosten für die Teilnahme an den Baubesprechungen werden nicht gesondert vergütet und  sind in die Einheitspreise einzukalkulieren."
+    },
+    {
+      "type": "heading",
+      "page": 23,
+      "bbox": [
+        70.94400024414062,
+        429.606201171875,
+        299.4468994140625,
+        447.4015808105469
+      ],
+      "text": "4.  Ausführungsunterlagen"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        70.94400024414062,
+        463.478759765625,
+        550.3690795898438,
+        552.7900390625
+      ],
+      "text": "Ausführungsunterlagen, wie Geländerübersichtspläne, werden zum Teil durch den Auf- traggeber erstellt. Die Bezeichnung „nach Unterlagen des AG“ der einzelnen Ordnungs- ziffern bedeutet, dass der Auftragnehmer die Ausführung auf Grundlage der AG Vorgaben  und Vorort Festlegungen erstellt.       4.1  Vom Auftraggeber zur Verfügung gestellte Ausführungsunterlagen"
+    },
+    {
+      "type": "other",
+      "page": 23,
+      "bbox": [
+        118.94000244140625,
+        559.1187744140625,
+        233.2791290283203,
+        571.4284057617188
+      ],
+      "text": "Übersichtszeichungen"
+    },
+    {
+      "type": "table",
+      "page": 23,
+      "bbox": [
+        106.33999633789062,
+        577.71875,
+        429.6191101074219,
+        767.1743774414062
+      ],
+      "text": "Ausführungsplanung    Höhenplan   Querschnittspläne   Detailpläne   Vermessungsunterlagen   Aufmaß und Mengenermittlung von Vorunternehmerleistungen   Berechnungen   Bodengutachten   Ergebnisse von Modellversuchen (Brückenbau)   Pflanzpläne (Landschaftsbau)   Pflanzlisten (Landschaftsbau)    Oberbodenlagerpläne (Landschaftsbau)    Entwurfspläne (analog)"
+    },
+    {
+      "type": "paragraph",
+      "page": 23,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  23/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        70.94400024414062,
+        99.67997741699219,
+        524.3560180664062,
+        126.8599624633789
+      ],
+      "text": "4.2  Vom Auftragnehmer zu erstellende bzw. zu beschaffende Ausführungs-    unterlagen"
+    },
+    {
+      "type": "table",
+      "page": 24,
+      "bbox": [
+        70.94400024414062,
+        133.1887969970703,
+        490.2491149902344,
+        284.7283630371094
+      ],
+      "text": "Erläuterungen des Bauablaufs, gegebenenfalls Einsatz von Spezialgeräten   Baustelleneinrichtungsplan   Bauzeitenplan   Zahlungsplan   Ausführungspläne/ Werksplanung Geländer   Transportpläne   Bestandspläne und Abrechnungsplan   Dokumentationsaufnahmen   Standsicherheitsnachweis (Geländerverankerung)   Modellversuche (Brückenbau)   Brückenbuch (Brückenbau)"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        285.018798828125,
+        550.0818481445312,
+        360.568359375
+      ],
+      "text": "Die zu erstellenden Unterlagen sind mit dem AG sowie weiteren an der Planung fachlich  Beteiligten abzustimmen.    Das einfache Einarbeiten von Änderungen ist Bestandteil der zu erbringenden Leistungen,  wenn im LV nichts anderes genannt ist."
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        366.8587646484375,
+        555.7894897460938,
+        404.4883728027344
+      ],
+      "text": "Die Leistungen und Lieferungen für alle Ausführungsunterlagen, sofern diese nicht im Leis- tungsverzeichnis aufgeführt werden, sind in die Einheitspreise einzurechnen und werden  nicht gesondert vergütet."
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        410.8987731933594,
+        518.6890869140625,
+        423.2083740234375
+      ],
+      "text": "In die Bestandsunterlagen sind die Belange aller Richtzeichnungen zu übernehmen."
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        466.8387756347656,
+        555.8336181640625,
+        491.7483825683594
+      ],
+      "text": "Im Langtext aufgeführte Bezüge auf Zeichnungen beziehen sich auf die Zeichnungen, die  vom AN aufzustellen sind."
+    },
+    {
+      "type": "other",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        498.1587829589844,
+        530.2091064453125,
+        510.4683837890625
+      ],
+      "text": "1.  Bauzeitenpläne              5-fach"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        516.7587890625,
+        444.2591247558594,
+        541.6683959960938
+      ],
+      "text": "2.  Ausführungs- und Detailpläne mit allen Detaildarstellungen     im Sinne der ZTV-ING"
+    },
+    {
+      "type": "other",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        548.0787353515625,
+        530.2091064453125,
+        560.3883666992188
+      ],
+      "text": "- Baubehelfe              5-fach"
+    },
+    {
+      "type": "other",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        566.6787719726562,
+        530.2091064453125,
+        578.9884033203125
+      ],
+      "text": "- Geländer, Übergangskonstruktionen, Lager      5-fach"
+    },
+    {
+      "type": "table",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        585.3988037109375,
+        530.2091064453125,
+        597.7084350585938
+      ],
+      "text": "- Übersichtszeichnung Fortschreibung        5-fach"
+    },
+    {
+      "type": "table_caption",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        603.998779296875,
+        530.2091064453125,
+        616.3084106445312
+      ],
+      "text": "im Abschlussstand (Bestandzeichnungen)       5-fach"
+    },
+    {
+      "type": "other",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        622.71875,
+        162.56912231445312,
+        635.0283813476562
+      ],
+      "text": "Zu Ziffer 1:"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        641.3187866210938,
+        555.9904174804688,
+        666.2584228515625
+      ],
+      "text": "Bauzeitenpläne sind bei wesentlichen Änderungen zu aktualisieren und erneut 4-fach beim  AG einzureichen."
+    },
+    {
+      "type": "other",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        672.6687622070312,
+        165.68911743164062,
+        684.9783935546875
+      ],
+      "text": "Zu Ziffer 2 :"
+    },
+    {
+      "type": "paragraph",
+      "page": 24,
+      "bbox": [
+        106.33999633789062,
+        691.268798828125,
+        552.6984252929688,
+        716.2984008789062
+      ],
+      "text": "Vorlage jeweils in abgeschlossenen Abschnitten. Zeichnungspausen mit Lochverstärkungs- streifen."
+    },
+    {
+      "type": "heading",
+      "page": 24,
+      "bbox": [
+        70.94400024414062,
+        747.4121704101562,
+        469.7768859863281,
+        765.2075805664062
+      ],
+      "text": "5.  Zusätzliche Technische Vertragsbedingungen"
+    },
+    {
+      "type": "table_caption",
+      "page": 24,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  24/25"
+    },
+    {
+      "type": "paragraph",
+      "page": 25,
+      "bbox": [
+        106.33999633789062,
+        99.58876037597656,
+        552.7261962890625,
+        162.5383758544922
+      ],
+      "text": "Die Regelwerke gelten in der zum Zeitpunkt der Veröffentlichung der Bauleistung gültigen  Ausgabe.    Es gilt die ZTV-ING und zum Datum der Veröffentlichung der Baumaßnahme gültigen Nor- men und sonstige Technische Regelwerke."
+    },
+    {
+      "type": "paragraph",
+      "page": 25,
+      "bbox": [
+        70.94400024414062,
+        174.9199676513672,
+        397.84600830078125,
+        203.9384002685547
+      ],
+      "text": "5.1  Baustelleneinrichtung / Allgemein für alle Arbeiten"
+    },
+    {
+      "type": "paragraph",
+      "page": 25,
+      "bbox": [
+        70.94400024414062,
+        216.34877014160156,
+        454.09912109375,
+        244.25840759277344
+      ],
+      "text": "5.1.1  Richtlinien für die Sicherung von Arbeitsstellen an Straßen RSA"
+    },
+    {
+      "type": "paragraph",
+      "page": 25,
+      "bbox": [
+        70.94400024414062,
+        256.54876708984375,
+        547.016357421875,
+        297.2083435058594
+      ],
+      "text": "5.1.2  Zusätzliche Technische Vertragsbedingungen und Richtlinien für Sicherungsarbei- ten an Arbeitsstellen an Straßen ZTV-SA"
+    },
+    {
+      "type": "other",
+      "page": 25,
+      "bbox": [
+        70.94400024414062,
+        309.3511657714844,
+        312.9048767089844,
+        321.9283752441406
+      ],
+      "text": "5.1.3  Richtlinien für Lichtsignalanlagen RiL"
+    },
+    {
+      "type": "paragraph",
+      "page": 25,
+      "bbox": [
+        70.94400024414062,
+        805.1621704101562,
+        547.7948608398438,
+        820.6776123046875
+      ],
+      "text": "Baubeschreibung Ersatzneubau Brücke über den Beverbach  Seite  25/25"
+    }
+  ]
+}

@@ -1,1 +1,122 @@
 /* You can add global styles to this file, and also import other style files */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.app-layout {
+  display: grid;
+  grid-template-columns: 400px 1fr;
+  height: 100vh;
+}
+
+.left-pane {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  overflow-y: auto;
+  border-right: 1px solid #ddd;
+  gap: 16px;
+}
+
+.right-pane {
+  padding: 16px;
+  overflow: auto;
+}
+
+h2 { margin-bottom: 12px; font-size: 1rem; font-weight: 600; }
+
+.hint { color: #999; font-size: 0.85rem; }
+
+.upload-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  label {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 0.85rem;
+    color: #555;
+  }
+
+  input[type="file"] { font-size: 0.85rem; }
+
+  button {
+    padding: 6px 14px;
+    background: #1a73e8;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    &:disabled { opacity: 0.5; cursor: default; }
+  }
+
+  .done { color: green; }
+  .error { color: red; }
+}
+
+.chat-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+
+  .input-row {
+    display: flex;
+    gap: 8px;
+
+    input {
+      flex: 1;
+      padding: 6px 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 0.9rem;
+    }
+
+    button {
+      padding: 6px 12px;
+      background: #1a73e8;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      &:disabled { opacity: 0.5; cursor: default; }
+    }
+  }
+
+  .answer {
+    background: #f8f8f8;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    white-space: pre-wrap;
+  }
+
+  .sources {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+
+    .source-btn {
+      padding: 4px 10px;
+      border: 1px solid #1a73e8;
+      background: white;
+      color: #1a73e8;
+      border-radius: 12px;
+      cursor: pointer;
+      font-size: 0.8rem;
+
+      &.active {
+        background: #1a73e8;
+        color: white;
+      }
+    }
+  }
+}
